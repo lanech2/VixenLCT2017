@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TimedSequenceData version="4" xmlns:a="http://www.w3.org/2001/XMLSchema" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Sequence.Timed">
+  <ModuleInstanceId xmlns="">96a04ef5-181f-4124-88db-b5811805dae8</ModuleInstanceId>
+  <ModuleTypeId xmlns="">296bdba2-9bf3-4bff-a9f2-13efac5c8ecb</ModuleTypeId>
+  <Length xmlns="">PT3M21.142S</Length>
+  <SequenceLayers xmlns:d1p1="http://schemas.datacontract.org/2004/07/Vixen.Sys.LayerMixing" xmlns="">
+    <d1p1:Layers xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d2p1:anyType i:type="d1p1:DefaultLayer">
+        <d1p1:Id>30d6558a-04b1-45d1-a841-030ec4607402</d1p1:Id>
+        <d1p1:LayerLevel>0</d1p1:LayerLevel>
+        <d1p1:LayerName>Default</d1p1:LayerName>
+        <d1p1:Type>Default</d1p1:Type>
+      </d2p1:anyType>
+    </d1p1:Layers>
+    <d1p1:_effectLayerMap xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  </SequenceLayers>
+  <Version xmlns="">0</Version>
+  <_dataModels xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns="">
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Alternating" i:type="d2p1:AlternatingData">
+      <ModuleInstanceId>60013950-280b-4f30-8c61-d99c304ded3f</ModuleInstanceId>
+      <ModuleTypeId>7b791008-56a2-4bff-8ce3-a7fb89ea4637</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:Colors xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:GradientLevelPair>
+          <d3p1:ColorGradient>
+            <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+            <d3p1:_alphas>
+              <d3p1:AlphaPoint>
+                <d3p1:_focus>0.5</d3p1:_focus>
+                <d3p1:_position>0</d3p1:_position>
+                <d3p1:_alpha>1</d3p1:_alpha>
+              </d3p1:AlphaPoint>
+              <d3p1:AlphaPoint>
+                <d3p1:_focus>0.5</d3p1:_focus>
+                <d3p1:_position>1</d3p1:_position>
+                <d3p1:_alpha>1</d3p1:_alpha>
+              </d3p1:AlphaPoint>
+            </d3p1:_alphas>
+            <d3p1:_colors>
+              <d3p1:ColorPoint>
+                <d3p1:_focus>0.5</d3p1:_focus>
+                <d3p1:_position>0</d3p1:_position>
+                <d3p1:_color xmlns:d8p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+                  <d8p1:_x>41.24</d8p1:_x>
+                  <d8p1:_y>21.26</d8p1:_y>
+                  <d8p1:_z>1.93</d8p1:_z>
+                </d3p1:_color>
+              </d3p1:ColorPoint>
+            </d3p1:_colors>
+            <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+            <d3p1:_libraryReferenceName i:nil="true" />
+            <d3p1:_title i:nil="true" />
+          </d3p1:ColorGradient>
+          <d3p1:Curve xmlns:d5p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+            <d5p1:IsCurrentLibraryCurve>false</d5p1:IsCurrentLibraryCurve>
+            <d5p1:Points xmlns:d6p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+              <d6p1:PointPair>
+                <schema i:type="a:int">11</schema>
+                <X i:type="a:double">0</X>
+                <Y i:type="a:double">70.195457725630249</Y>
+                <schema2 i:type="a:int">11</schema2>
+                <Z i:type="a:double">0</Z>
+                <Tag i:nil="true" />
+              </d6p1:PointPair>
+              <d6p1:PointPair>
+                <schema i:type="a:int">11</schema>
+                <X i:type="a:double">100</X>
+                <Y i:type="a:double">69.667943703075011</Y>
+                <schema2 i:type="a:int">11</schema2>
+                <Z i:type="a:double">0</Z>
+                <Tag i:nil="true" />
+              </d6p1:PointPair>
+            </d5p1:Points>
+            <d5p1:_libraryReferenceName>70</d5p1:_libraryReferenceName>
+          </d3p1:Curve>
+        </d3p1:GradientLevelPair>
+        <d3p1:GradientLevelPair>
+          <d3p1:ColorGradient>
+            <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+            <d3p1:_alphas>
+              <d3p1:AlphaPoint>
+                <d3p1:_focus>0.5</d3p1:_focus>
+                <d3p1:_position>0</d3p1:_position>
+                <d3p1:_alpha>1</d3p1:_alpha>
+              </d3p1:AlphaPoint>
+              <d3p1:AlphaPoint>
+                <d3p1:_focus>0.5</d3p1:_focus>
+                <d3p1:_position>1</d3p1:_position>
+                <d3p1:_alpha>1</d3p1:_alpha>
+              </d3p1:AlphaPoint>
+            </d3p1:_alphas>
+            <d3p1:_colors>
+              <d3p1:ColorPoint>
+                <d3p1:_focus>0.5</d3p1:_focus>
+                <d3p1:_position>0</d3p1:_position>
+                <d3p1:_color xmlns:d8p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+                  <d8p1:_x>35.76</d8p1:_x>
+                  <d8p1:_y>71.52</d8p1:_y>
+                  <d8p1:_z>11.92</d8p1:_z>
+                </d3p1:_color>
+              </d3p1:ColorPoint>
+            </d3p1:_colors>
+            <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+            <d3p1:_libraryReferenceName i:nil="true" />
+            <d3p1:_title i:nil="true" />
+          </d3p1:ColorGradient>
+          <d3p1:Curve xmlns:d5p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+            <d5p1:IsCurrentLibraryCurve>false</d5p1:IsCurrentLibraryCurve>
+            <d5p1:Points xmlns:d6p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+              <d6p1:PointPair>
+                <schema i:type="a:int">11</schema>
+                <X i:type="a:double">0</X>
+                <Y i:type="a:double">70.195457725630249</Y>
+                <schema2 i:type="a:int">11</schema2>
+                <Z i:type="a:double">0</Z>
+                <Tag i:nil="true" />
+              </d6p1:PointPair>
+              <d6p1:PointPair>
+                <schema i:type="a:int">11</schema>
+                <X i:type="a:double">100</X>
+                <Y i:type="a:double">69.667943703075011</Y>
+                <schema2 i:type="a:int">11</schema2>
+                <Z i:type="a:double">0</Z>
+                <Tag i:nil="true" />
+              </d6p1:PointPair>
+            </d5p1:Points>
+            <d5p1:_libraryReferenceName>70</d5p1:_libraryReferenceName>
+          </d3p1:Curve>
+        </d3p1:GradientLevelPair>
+      </d2p1:Colors>
+      <d2p1:EnableStatic>false</d2p1:EnableStatic>
+      <d2p1:GroupLevel>1</d2p1:GroupLevel>
+      <d2p1:Interval>800</d2p1:Interval>
+      <d2p1:IntervalSkipCount>1</d2p1:IntervalSkipCount>
+    </d1p1:anyType>
+  </_dataModels>
+  <_effectNodeSurrogates xmlns="">
+    <EffectNodeSurrogate>
+      <InstanceId>60013950-280b-4f30-8c61-d99c304ded3f</InstanceId>
+      <StartTime>PT0S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT26.5464045S</TimeSpan>
+      <TypeId>7b791008-56a2-4bff-8ce3-a7fb89ea4637</TypeId>
+    </EffectNodeSurrogate>
+  </_effectNodeSurrogates>
+  <_filterNodeSurrogates xmlns="" />
+  <_layerMixingFilterDataModels xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns="" />
+  <_layerMixingFilterSurrogates xmlns="" />
+  <_mediaSurrogates xmlns="" />
+  <_selectedTimingProviderSurrogate xmlns="">
+    <ProviderType>Media</ProviderType>
+    <SourceName>15 Track 15.mp3</SourceName>
+  </_selectedTimingProviderSurrogate>
+  <DefaultPlaybackEndTime i:nil="true" />
+  <DefaultPlaybackStartTime>PT0S</DefaultPlaybackStartTime>
+  <DefaultRowHeight>32</DefaultRowHeight>
+  <DefaultSplitterDistance>0</DefaultSplitterDistance>
+  <MarkCollections />
+  <RowSettings xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <TimePerPixel>PT0.073824S</TimePerPixel>
+  <VisibleTimeStart>PT0S</VisibleTimeStart>
+</TimedSequenceData>
