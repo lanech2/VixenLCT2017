@@ -1,0 +1,486 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TimedSequenceData version="4" xmlns:a="http://www.w3.org/2001/XMLSchema" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Sequence.Timed">
+  <ModuleInstanceId xmlns="">86bcf8bc-5df8-4d64-8201-85ea7a3e8447</ModuleInstanceId>
+  <ModuleTypeId xmlns="">296bdba2-9bf3-4bff-a9f2-13efac5c8ecb</ModuleTypeId>
+  <Length xmlns="">PT4M0.091S</Length>
+  <SequenceLayers xmlns:d1p1="http://schemas.datacontract.org/2004/07/Vixen.Sys.LayerMixing" xmlns="">
+    <d1p1:Layers xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+      <d2p1:anyType i:type="d1p1:DefaultLayer">
+        <d1p1:Id>789bf050-b221-4010-b49a-4e720eea3c18</d1p1:Id>
+        <d1p1:LayerLevel>0</d1p1:LayerLevel>
+        <d1p1:LayerName>Default</d1p1:LayerName>
+        <d1p1:Type>Default</d1p1:Type>
+      </d2p1:anyType>
+    </d1p1:Layers>
+    <d1p1:_effectLayerMap xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  </SequenceLayers>
+  <Version xmlns="">0</Version>
+  <_dataModels xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns="">
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Media.Audio" i:type="d2p1:AudioData">
+      <ModuleInstanceId>271680e5-b1bf-480e-9473-399d8c659350</ModuleInstanceId>
+      <ModuleTypeId>fe460392-3fab-4c63-99dd-d76c48354150</ModuleTypeId>
+      <d2p1:FilePath>C:\Users\Chris\Documents\Vixen 3 Test 2017\Media\HeShallReignForevermore.mp3</d2p1:FilePath>
+      <d2p1:RelativeAudioPath>..\..\Vixen 3 Test 2017\Media\HeShallReignForevermore.mp3</d2p1:RelativeAudioPath>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
+      <ModuleInstanceId>289bd3e5-df8b-480c-97ff-d9642554f38b</ModuleInstanceId>
+      <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
+      <d2p1:AveragePulseTime>2500</d2p1:AveragePulseTime>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>95.047</d6p1:_x>
+              <d6p1:_y>100</d6p1:_y>
+              <d6p1:_z>108.883</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:ColorHandling>GradientForEachPulse</d2p1:ColorHandling>
+      <d2p1:DepthOfEffect>0</d2p1:DepthOfEffect>
+      <d2p1:IndividualChannels>true</d2p1:IndividualChannels>
+      <d2p1:LevelVariation>50</d2p1:LevelVariation>
+      <d2p1:MaximumLevel>0.7</d2p1:MaximumLevel>
+      <d2p1:MinimumLevel>0</d2p1:MinimumLevel>
+      <d2p1:PulseTimeVariation>30</d2p1:PulseTimeVariation>
+      <d2p1:StaticColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>164</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>1</d3p1:state>
+        <d3p1:value>0</d3p1:value>
+      </d2p1:StaticColor>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Wipe" i:type="d2p1:WipeData">
+      <ModuleInstanceId>e51b3da6-520a-4066-b42e-b3ac0bed73ef</ModuleInstanceId>
+      <ModuleTypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>21.192577762115288</d6p1:_x>
+              <d6p1:_y>11.0059510435513</d6p1:_y>
+              <d6p1:_z>95.615130195778164</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName>Darker Blue</d3p1:_libraryReferenceName>
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
+        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">0</X>
+            <Y i:type="a:double">0</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">50</X>
+            <Y i:type="a:double">70</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">100</X>
+            <Y i:type="a:double">0</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+        </d3p1:Points>
+        <d3p1:_libraryReferenceName>0-70-0</d3p1:_libraryReferenceName>
+      </d2p1:Curve>
+      <d2p1:Direction>Right</d2p1:Direction>
+      <d2p1:PassCount>1</d2p1:PassCount>
+      <d2p1:PulsePercent>33</d2p1:PulsePercent>
+      <d2p1:PulseTime>2500</d2p1:PulseTime>
+      <d2p1:WipeByCount>false</d2p1:WipeByCount>
+      <d2p1:WipeOff>false</d2p1:WipeOff>
+      <d2p1:WipeOn>false</d2p1:WipeOn>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Wipe" i:type="d2p1:WipeData">
+      <ModuleInstanceId>2853922b-da2e-475d-9aca-3960c4d5d938</ModuleInstanceId>
+      <ModuleTypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>18.050955118399997</d6p1:_x>
+              <d6p1:_y>7.2204923815999988</d6p1:_y>
+              <d6p1:_z>95.0500446988</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.21238938053097342</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>41.24</d6p1:_x>
+              <d6p1:_y>21.26</d6p1:_y>
+              <d6p1:_z>1.93</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0.70725388601036265</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>13.633618006186605</d6p1:_x>
+              <d6p1:_y>6.6642277798667013</d6p1:_y>
+              <d6p1:_z>17.09074925952185</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName>blue-to-red</d3p1:_libraryReferenceName>
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
+        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">0</X>
+            <Y i:type="a:double">0</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">50</X>
+            <Y i:type="a:double">70</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">100</X>
+            <Y i:type="a:double">0</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+        </d3p1:Points>
+        <d3p1:_libraryReferenceName>0-70-0</d3p1:_libraryReferenceName>
+      </d2p1:Curve>
+      <d2p1:Direction>Right</d2p1:Direction>
+      <d2p1:PassCount>1</d2p1:PassCount>
+      <d2p1:PulsePercent>33</d2p1:PulsePercent>
+      <d2p1:PulseTime>2500</d2p1:PulseTime>
+      <d2p1:WipeByCount>false</d2p1:WipeByCount>
+      <d2p1:WipeOff>false</d2p1:WipeOff>
+      <d2p1:WipeOn>false</d2p1:WipeOn>
+    </d1p1:anyType>
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
+      <ModuleInstanceId>a4f68b09-e30e-41ff-b91e-d147d029d04a</ModuleInstanceId>
+      <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
+      <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
+      <d2p1:AveragePulseTime>2500</d2p1:AveragePulseTime>
+      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+        <d3p1:_alphas>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+          <d3p1:AlphaPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>1</d3p1:_position>
+            <d3p1:_alpha>1</d3p1:_alpha>
+          </d3p1:AlphaPoint>
+        </d3p1:_alphas>
+        <d3p1:_colors>
+          <d3p1:ColorPoint>
+            <d3p1:_focus>0.5</d3p1:_focus>
+            <d3p1:_position>0</d3p1:_position>
+            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+              <d6p1:_x>95.047</d6p1:_x>
+              <d6p1:_y>100</d6p1:_y>
+              <d6p1:_z>108.883</d6p1:_z>
+            </d3p1:_color>
+          </d3p1:ColorPoint>
+        </d3p1:_colors>
+        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+        <d3p1:_libraryReferenceName i:nil="true" />
+        <d3p1:_title i:nil="true" />
+      </d2p1:ColorGradient>
+      <d2p1:ColorHandling>GradientForEachPulse</d2p1:ColorHandling>
+      <d2p1:DepthOfEffect>0</d2p1:DepthOfEffect>
+      <d2p1:IndividualChannels>true</d2p1:IndividualChannels>
+      <d2p1:LevelVariation>50</d2p1:LevelVariation>
+      <d2p1:MaximumLevel>0.7</d2p1:MaximumLevel>
+      <d2p1:MinimumLevel>0</d2p1:MinimumLevel>
+      <d2p1:PulseTimeVariation>30</d2p1:PulseTimeVariation>
+      <d2p1:StaticColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>164</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>1</d3p1:state>
+        <d3p1:value>0</d3p1:value>
+      </d2p1:StaticColor>
+    </d1p1:anyType>
+  </_dataModels>
+  <_effectNodeSurrogates xmlns="">
+    <EffectNodeSurrogate>
+      <InstanceId>289bd3e5-df8b-480c-97ff-d9642554f38b</InstanceId>
+      <StartTime>PT0.444S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT15.634S</TimeSpan>
+      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>e51b3da6-520a-4066-b42e-b3ac0bed73ef</InstanceId>
+      <StartTime>PT0.444S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT15.634S</TimeSpan>
+      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>2853922b-da2e-475d-9aca-3960c4d5d938</InstanceId>
+      <StartTime>PT16.078S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT23.632S</TimeSpan>
+      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>a4f68b09-e30e-41ff-b91e-d147d029d04a</InstanceId>
+      <StartTime>PT16.078S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT23.632S</TimeSpan>
+      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
+    </EffectNodeSurrogate>
+  </_effectNodeSurrogates>
+  <_filterNodeSurrogates xmlns="" />
+  <_layerMixingFilterDataModels xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns="" />
+  <_layerMixingFilterSurrogates xmlns="" />
+  <_mediaSurrogates xmlns="">
+    <MediaSurrogate>
+      <FileName>HeShallReignForevermore.mp3</FileName>
+      <InstanceId>271680e5-b1bf-480e-9473-399d8c659350</InstanceId>
+      <TypeId>fe460392-3fab-4c63-99dd-d76c48354150</TypeId>
+    </MediaSurrogate>
+  </_mediaSurrogates>
+  <_selectedTimingProviderSurrogate xmlns="">
+    <ProviderType>Media</ProviderType>
+    <SourceName>HeShallReignForevermore.mp3</SourceName>
+  </_selectedTimingProviderSurrogate>
+  <DefaultPlaybackEndTime i:nil="true" />
+  <DefaultPlaybackStartTime>PT0S</DefaultPlaybackStartTime>
+  <DefaultRowHeight>40</DefaultRowHeight>
+  <DefaultSplitterDistance>250</DefaultSplitterDistance>
+  <MarkCollections>
+    <MarkCollection>
+      <Bold>false</Bold>
+      <Enabled>true</Enabled>
+      <Id>929e8258-3a6d-45e9-a42b-c03b4c780b10</Id>
+      <Level>1</Level>
+      <MarkColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
+        <d3p1:knownColor>0</d3p1:knownColor>
+        <d3p1:name i:nil="true" />
+        <d3p1:state>2</d3p1:state>
+        <d3p1:value>4293768723</d3p1:value>
+      </MarkColor>
+      <Marks xmlns:d3p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+        <d3p1:duration>PT0.444S</d3p1:duration>
+        <d3p1:duration>PT2.292S</d3p1:duration>
+        <d3p1:duration>PT4.195S</d3p1:duration>
+        <d3p1:duration>PT6.154S</d3p1:duration>
+        <d3p1:duration>PT8.194S</d3p1:duration>
+        <d3p1:duration>PT10.144S</d3p1:duration>
+        <d3p1:duration>PT12.116S</d3p1:duration>
+        <d3p1:duration>PT14.07S</d3p1:duration>
+        <d3p1:duration>PT16.078S</d3p1:duration>
+        <d3p1:duration>PT18.017S</d3p1:duration>
+        <d3p1:duration>PT20.018S</d3p1:duration>
+        <d3p1:duration>PT22.01S</d3p1:duration>
+        <d3p1:duration>PT23.924S</d3p1:duration>
+        <d3p1:duration>PT25.886S</d3p1:duration>
+        <d3p1:duration>PT27.862S</d3p1:duration>
+        <d3p1:duration>PT29.864S</d3p1:duration>
+        <d3p1:duration>PT31.799S</d3p1:duration>
+        <d3p1:duration>PT33.786S</d3p1:duration>
+        <d3p1:duration>PT35.748S</d3p1:duration>
+        <d3p1:duration>PT37.624S</d3p1:duration>
+        <d3p1:duration>PT39.71S</d3p1:duration>
+        <d3p1:duration>PT41.64S</d3p1:duration>
+        <d3p1:duration>PT43.563S</d3p1:duration>
+        <d3p1:duration>PT45.541S</d3p1:duration>
+        <d3p1:duration>PT47.54S</d3p1:duration>
+        <d3p1:duration>PT49.494S</d3p1:duration>
+        <d3p1:duration>PT51.51S</d3p1:duration>
+        <d3p1:duration>PT53.424S</d3p1:duration>
+        <d3p1:duration>PT55.378S</d3p1:duration>
+        <d3p1:duration>PT57.396S</d3p1:duration>
+        <d3p1:duration>PT59.34S</d3p1:duration>
+        <d3p1:duration>PT1M1.23S</d3p1:duration>
+        <d3p1:duration>PT1M3.262S</d3p1:duration>
+        <d3p1:duration>PT1M5.221S</d3p1:duration>
+        <d3p1:duration>PT1M7.154S</d3p1:duration>
+        <d3p1:duration>PT1M9.13S</d3p1:duration>
+        <d3p1:duration>PT1M11.131S</d3p1:duration>
+        <d3p1:duration>PT1M13.116S</d3p1:duration>
+        <d3p1:duration>PT1M15.038S</d3p1:duration>
+        <d3p1:duration>PT1M17.046S</d3p1:duration>
+        <d3p1:duration>PT1M18.984S</d3p1:duration>
+        <d3p1:duration>PT1M21.006S</d3p1:duration>
+        <d3p1:duration>PT1M22.968S</d3p1:duration>
+        <d3p1:duration>PT1M24.908S</d3p1:duration>
+        <d3p1:duration>PT1M26.882S</d3p1:duration>
+        <d3p1:duration>PT1M28.86S</d3p1:duration>
+        <d3p1:duration>PT1M30.79S</d3p1:duration>
+        <d3p1:duration>PT1M32.814S</d3p1:duration>
+        <d3p1:duration>PT1M34.766S</d3p1:duration>
+        <d3p1:duration>PT1M36.728S</d3p1:duration>
+        <d3p1:duration>PT1M38.65S</d3p1:duration>
+        <d3p1:duration>PT1M40.604S</d3p1:duration>
+        <d3p1:duration>PT1M42.596S</d3p1:duration>
+        <d3p1:duration>PT1M44.534S</d3p1:duration>
+        <d3p1:duration>PT1M46.48S</d3p1:duration>
+        <d3p1:duration>PT1M48.426S</d3p1:duration>
+        <d3p1:duration>PT1M50.503S</d3p1:duration>
+        <d3p1:duration>PT1M52.426S</d3p1:duration>
+        <d3p1:duration>PT1M54.391S</d3p1:duration>
+        <d3p1:duration>PT1M56.332S</d3p1:duration>
+        <d3p1:duration>PT1M58.348S</d3p1:duration>
+        <d3p1:duration>PT2M0.27S</d3p1:duration>
+        <d3p1:duration>PT2M2.27S</d3p1:duration>
+        <d3p1:duration>PT2M4.195S</d3p1:duration>
+        <d3p1:duration>PT2M6.186S</d3p1:duration>
+        <d3p1:duration>PT2M8.148S</d3p1:duration>
+        <d3p1:duration>PT2M10.094S</d3p1:duration>
+        <d3p1:duration>PT2M12.077S</d3p1:duration>
+        <d3p1:duration>PT2M14.038S</d3p1:duration>
+        <d3p1:duration>PT2M16.032S</d3p1:duration>
+        <d3p1:duration>PT2M18.032S</d3p1:duration>
+        <d3p1:duration>PT2M19.947S</d3p1:duration>
+        <d3p1:duration>PT2M21.914S</d3p1:duration>
+        <d3p1:duration>PT2M23.871S</d3p1:duration>
+        <d3p1:duration>PT2M25.853S</d3p1:duration>
+        <d3p1:duration>PT2M27.862S</d3p1:duration>
+        <d3p1:duration>PT2M29.846S</d3p1:duration>
+        <d3p1:duration>PT2M31.76S</d3p1:duration>
+        <d3p1:duration>PT2M33.636S</d3p1:duration>
+        <d3p1:duration>PT2M35.695S</d3p1:duration>
+        <d3p1:duration>PT2M37.651S</d3p1:duration>
+        <d3p1:duration>PT2M39.613S</d3p1:duration>
+        <d3p1:duration>PT2M41.557S</d3p1:duration>
+        <d3p1:duration>PT2M43.574S</d3p1:duration>
+        <d3p1:duration>PT2M45.543S</d3p1:duration>
+        <d3p1:duration>PT2M47.544S</d3p1:duration>
+        <d3p1:duration>PT2M49.49S</d3p1:duration>
+        <d3p1:duration>PT2M51.366S</d3p1:duration>
+        <d3p1:duration>PT2M53.46S</d3p1:duration>
+        <d3p1:duration>PT2M55.425S</d3p1:duration>
+        <d3p1:duration>PT2M57.311S</d3p1:duration>
+        <d3p1:duration>PT2M59.227S</d3p1:duration>
+        <d3p1:duration>PT3M1.267S</d3p1:duration>
+        <d3p1:duration>PT3M3.261S</d3p1:duration>
+        <d3p1:duration>PT3M5.19S</d3p1:duration>
+        <d3p1:duration>PT3M7.143S</d3p1:duration>
+        <d3p1:duration>PT3M9.167S</d3p1:duration>
+        <d3p1:duration>PT3M11.151S</d3p1:duration>
+        <d3p1:duration>PT3M13.065S</d3p1:duration>
+        <d3p1:duration>PT3M14.973S</d3p1:duration>
+        <d3p1:duration>PT3M17.051S</d3p1:duration>
+        <d3p1:duration>PT3M18.941S</d3p1:duration>
+        <d3p1:duration>PT3M20.925S</d3p1:duration>
+        <d3p1:duration>PT3M22.888S</d3p1:duration>
+        <d3p1:duration>PT3M24.935S</d3p1:duration>
+        <d3p1:duration>PT3M26.874S</d3p1:duration>
+        <d3p1:duration>PT3M28.898S</d3p1:duration>
+        <d3p1:duration>PT3M30.701S</d3p1:duration>
+        <d3p1:duration>PT3M32.742S</d3p1:duration>
+        <d3p1:duration>PT3M34.717S</d3p1:duration>
+        <d3p1:duration>PT3M36.733S</d3p1:duration>
+        <d3p1:duration>PT3M38.647S</d3p1:duration>
+        <d3p1:duration>PT3M40.601S</d3p1:duration>
+        <d3p1:duration>PT3M42.585S</d3p1:duration>
+        <d3p1:duration>PT3M44.547S</d3p1:duration>
+        <d3p1:duration>PT3M46.507S</d3p1:duration>
+        <d3p1:duration>PT3M48.516S</d3p1:duration>
+      </Marks>
+      <Name>New Collection</Name>
+      <SolidLine>false</SolidLine>
+    </MarkCollection>
+  </MarkCollections>
+  <RowSettings xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+  <TimePerPixel>PT0.0476834S</TimePerPixel>
+  <VisibleTimeStart>PT39.7742316S</VisibleTimeStart>
+</TimedSequenceData>
