@@ -4023,7 +4023,7 @@
     <SourceName>GloryHallelujah.mp3</SourceName>
   </_selectedTimingProviderSurrogate>
   <DefaultPlaybackEndTime i:nil="true" />
-  <DefaultPlaybackStartTime>PT2M26.86518S</DefaultPlaybackStartTime>
+  <DefaultPlaybackStartTime>PT0S</DefaultPlaybackStartTime>
   <DefaultRowHeight>40</DefaultRowHeight>
   <DefaultSplitterDistance>250</DefaultSplitterDistance>
   <MarkCollections>
@@ -4151,5 +4151,5 @@
   </MarkCollections>
   <RowSettings xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
   <TimePerPixel>PT0.0476835S</TimePerPixel>
-  <VisibleTimeStart>PT2M30.239763S</VisibleTimeStart>
+  <VisibleTimeStart>PT0S</VisibleTimeStart>
 </TimedSequenceData>
