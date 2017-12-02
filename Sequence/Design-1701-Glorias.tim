@@ -142,7 +142,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -200,7 +200,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -258,7 +258,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -507,7 +507,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -574,7 +574,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -641,7 +641,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -1156,7 +1156,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -1877,7 +1877,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -1926,7 +1926,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -1975,7 +1975,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -2083,7 +2083,7 @@
         <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
       </d2p1:Curve>
       <d2p1:Direction>Up</d2p1:Direction>
-      <d2p1:PassCount>6</d2p1:PassCount>
+      <d2p1:PassCount>3</d2p1:PassCount>
       <d2p1:PulsePercent>49.715851167014058</d2p1:PulsePercent>
       <d2p1:PulseTime>1000</d2p1:PulseTime>
       <d2p1:WipeByCount>true</d2p1:WipeByCount>
@@ -2095,7 +2095,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -2233,7 +2233,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -2300,7 +2300,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -2367,7 +2367,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -2434,7 +2434,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -2501,7 +2501,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -2792,7 +2792,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -4235,7 +4235,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -4293,7 +4293,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -4351,7 +4351,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -4409,7 +4409,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -4467,7 +4467,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -4525,7 +4525,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -4583,7 +4583,7 @@
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>400</d2p1:AveragePulseTime>
+      <d2p1:AveragePulseTime>1000</d2p1:AveragePulseTime>
       <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
         <d3p1:_alphas>
@@ -4788,11 +4788,11 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>d33dceef-90e3-49ba-95b6-e98ac64caa2e</InstanceId>
+      <InstanceId>a12ccd49-8edb-4a08-ae75-43465956c8c3</InstanceId>
       <StartTime>PT31.753S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <NodeId>141f3585-ac96-4160-8fb3-9f8bcac1d213</NodeId>
+          <NodeId>5cfa0b34-3d52-4b33-8b85-7c65e0baa2a0</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT1.973S</TimeSpan>
@@ -4810,11 +4810,11 @@
       <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>4ff92794-7008-4719-946f-13fa765c2c32</InstanceId>
+      <InstanceId>d33dceef-90e3-49ba-95b6-e98ac64caa2e</InstanceId>
       <StartTime>PT31.753S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <NodeId>50fb3e13-230f-4c87-bb7d-8332bd1f7022</NodeId>
+          <NodeId>141f3585-ac96-4160-8fb3-9f8bcac1d213</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT1.973S</TimeSpan>
@@ -4832,11 +4832,11 @@
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>a12ccd49-8edb-4a08-ae75-43465956c8c3</InstanceId>
+      <InstanceId>4ff92794-7008-4719-946f-13fa765c2c32</InstanceId>
       <StartTime>PT31.753S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <NodeId>5cfa0b34-3d52-4b33-8b85-7c65e0baa2a0</NodeId>
+          <NodeId>50fb3e13-230f-4c87-bb7d-8332bd1f7022</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT1.973S</TimeSpan>
@@ -5151,6 +5151,17 @@
       <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
+      <InstanceId>99acaa3d-9973-4599-b328-eb60b6e49588</InstanceId>
+      <StartTime>PT1M45.232S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>990e7a89-00e3-4b80-a908-161200535682</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT11.854S</TimeSpan>
+      <TypeId>7b791008-56a2-4bff-8ce3-a7fb89ea4637</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
       <InstanceId>5084d8d5-da78-44f9-a08f-d5d0eaa49e4c</InstanceId>
       <StartTime>PT1M45.232S</StartTime>
       <TargetNodes>
@@ -5171,17 +5182,6 @@
       </TargetNodes>
       <TimeSpan>PT11.854S</TimeSpan>
       <TypeId>24decea6-78ab-4f42-acee-79afe4ffc015</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
-      <InstanceId>99acaa3d-9973-4599-b328-eb60b6e49588</InstanceId>
-      <StartTime>PT1M45.232S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <NodeId>990e7a89-00e3-4b80-a908-161200535682</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT11.854S</TimeSpan>
-      <TypeId>7b791008-56a2-4bff-8ce3-a7fb89ea4637</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
       <InstanceId>e94a67c4-73bc-49ed-81a6-fa6231d25b3c</InstanceId>
@@ -5381,5 +5381,5 @@
   <MarkCollections />
   <RowSettings xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
   <TimePerPixel>PT0.0596043S</TimePerPixel>
-  <VisibleTimeStart>PT1M11.2271385S</VisibleTimeStart>
+  <VisibleTimeStart>PT2M28.733882S</VisibleTimeStart>
 </TimedSequenceData>

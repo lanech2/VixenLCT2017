@@ -3662,6 +3662,17 @@
       <TypeId>7b791008-56a2-4bff-8ce3-a7fb89ea4637</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
+      <InstanceId>2025af05-7566-4aa4-88a6-dac62402b0f3</InstanceId>
+      <StartTime>PT2M45.007S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>08fe4c85-ee20-4312-a78f-97f9b6dbea66</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT13.496S</TimeSpan>
+      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
       <InstanceId>39951d70-bc8d-4844-b7e3-fb0fcbb7aa3b</InstanceId>
       <StartTime>PT2M45.007S</StartTime>
       <TargetNodes>
@@ -3678,17 +3689,6 @@
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <NodeId>990e7a89-00e3-4b80-a908-161200535682</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT13.496S</TimeSpan>
-      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
-      <InstanceId>2025af05-7566-4aa4-88a6-dac62402b0f3</InstanceId>
-      <StartTime>PT2M45.007S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <NodeId>08fe4c85-ee20-4312-a78f-97f9b6dbea66</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT13.496S</TimeSpan>
@@ -3827,6 +3827,17 @@
       <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
+      <InstanceId>591b67d1-f840-4498-90e3-41e575310f99</InstanceId>
+      <StartTime>PT4M32.523S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>990e7a89-00e3-4b80-a908-161200535682</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT6.898S</TimeSpan>
+      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
       <InstanceId>0298644f-883e-41b2-8464-9776a5dfdf71</InstanceId>
       <StartTime>PT4M32.523S</StartTime>
       <TargetNodes>
@@ -3843,17 +3854,6 @@
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT6.898S</TimeSpan>
-      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
-      <InstanceId>591b67d1-f840-4498-90e3-41e575310f99</InstanceId>
-      <StartTime>PT4M32.523S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <NodeId>990e7a89-00e3-4b80-a908-161200535682</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT6.898S</TimeSpan>
@@ -4043,5 +4043,5 @@
   </MarkCollections>
   <RowSettings xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
   <TimePerPixel>PT0.0745053S</TimePerPixel>
-  <VisibleTimeStart>PT3M30.0058622S</VisibleTimeStart>
+  <VisibleTimeStart>PT4M26.146622S</VisibleTimeStart>
 </TimedSequenceData>

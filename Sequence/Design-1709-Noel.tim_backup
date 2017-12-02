@@ -139,6 +139,8 @@
       <d2p1:PulsePercent>33</d2p1:PulsePercent>
       <d2p1:PulseTime>10000</d2p1:PulseTime>
       <d2p1:WipeByCount>false</d2p1:WipeByCount>
+      <d2p1:WipeOff>false</d2p1:WipeOff>
+      <d2p1:WipeOn>false</d2p1:WipeOn>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Wipe" i:type="d2p1:WipeData">
       <ModuleInstanceId>79f69f16-fd90-4c84-90be-3d1cab58ddf5</ModuleInstanceId>
@@ -226,6 +228,8 @@
       <d2p1:PulsePercent>33</d2p1:PulsePercent>
       <d2p1:PulseTime>5000</d2p1:PulseTime>
       <d2p1:WipeByCount>false</d2p1:WipeByCount>
+      <d2p1:WipeOff>false</d2p1:WipeOff>
+      <d2p1:WipeOn>false</d2p1:WipeOn>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
       <ModuleInstanceId>f6861ed8-723b-4fd4-843e-0e240692d977</ModuleInstanceId>
@@ -402,6 +406,8 @@
       <d2p1:PulsePercent>33</d2p1:PulsePercent>
       <d2p1:PulseTime>5000</d2p1:PulseTime>
       <d2p1:WipeByCount>false</d2p1:WipeByCount>
+      <d2p1:WipeOff>false</d2p1:WipeOff>
+      <d2p1:WipeOn>false</d2p1:WipeOn>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
       <ModuleInstanceId>c1e1194e-36a0-4677-94ab-7c5827c96c12</ModuleInstanceId>
@@ -587,6 +593,8 @@
       <d2p1:PulsePercent>33</d2p1:PulsePercent>
       <d2p1:PulseTime>5000</d2p1:PulseTime>
       <d2p1:WipeByCount>false</d2p1:WipeByCount>
+      <d2p1:WipeOff>false</d2p1:WipeOff>
+      <d2p1:WipeOn>false</d2p1:WipeOn>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Wipe" i:type="d2p1:WipeData">
       <ModuleInstanceId>e9aaff78-88ed-4fc5-b637-b656b6a94775</ModuleInstanceId>
@@ -674,6 +682,8 @@
       <d2p1:PulsePercent>33</d2p1:PulsePercent>
       <d2p1:PulseTime>5000</d2p1:PulseTime>
       <d2p1:WipeByCount>false</d2p1:WipeByCount>
+      <d2p1:WipeOff>false</d2p1:WipeOff>
+      <d2p1:WipeOn>false</d2p1:WipeOn>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
       <ModuleInstanceId>dc5ca1f2-8d34-4e7a-857a-e8facf1c7906</ModuleInstanceId>
@@ -749,7 +759,7 @@
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
               <d6p1:_x>41.240781781038628</d6p1:_x>
               <d6p1:_y>21.2615525876374</d6p1:_y>
-              <d6p1:_z>1.9302944264690523</d6p1:_z>
+              <d6p1:_z>1.9302944264690522</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
@@ -809,6 +819,8 @@
       <d2p1:PulsePercent>33</d2p1:PulsePercent>
       <d2p1:PulseTime>5000</d2p1:PulseTime>
       <d2p1:WipeByCount>false</d2p1:WipeByCount>
+      <d2p1:WipeOff>false</d2p1:WipeOff>
+      <d2p1:WipeOn>false</d2p1:WipeOn>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
       <ModuleInstanceId>709b0af8-3f32-43a2-bc58-f93d24ebc655</ModuleInstanceId>
@@ -884,7 +896,7 @@
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
               <d6p1:_x>41.240781781038628</d6p1:_x>
               <d6p1:_y>21.2615525876374</d6p1:_y>
-              <d6p1:_z>1.9302944264690523</d6p1:_z>
+              <d6p1:_z>1.9302944264690522</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
@@ -944,6 +956,8 @@
       <d2p1:PulsePercent>33</d2p1:PulsePercent>
       <d2p1:PulseTime>5000</d2p1:PulseTime>
       <d2p1:WipeByCount>false</d2p1:WipeByCount>
+      <d2p1:WipeOff>false</d2p1:WipeOff>
+      <d2p1:WipeOn>false</d2p1:WipeOn>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Wipe" i:type="d2p1:WipeData">
       <ModuleInstanceId>235310fc-5428-4c8b-aaaa-3b4999c30772</ModuleInstanceId>
@@ -970,7 +984,7 @@
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
               <d6p1:_x>41.240781781038628</d6p1:_x>
               <d6p1:_y>21.2615525876374</d6p1:_y>
-              <d6p1:_z>1.9302944264690523</d6p1:_z>
+              <d6p1:_z>1.9302944264690522</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
@@ -1030,6 +1044,8 @@
       <d2p1:PulsePercent>33</d2p1:PulsePercent>
       <d2p1:PulseTime>5000</d2p1:PulseTime>
       <d2p1:WipeByCount>false</d2p1:WipeByCount>
+      <d2p1:WipeOff>false</d2p1:WipeOff>
+      <d2p1:WipeOn>false</d2p1:WipeOn>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
       <ModuleInstanceId>7052699a-9a52-495c-89e6-d846e29e436d</ModuleInstanceId>
@@ -1148,6 +1164,8 @@
       <d2p1:PulsePercent>33</d2p1:PulsePercent>
       <d2p1:PulseTime>5000</d2p1:PulseTime>
       <d2p1:WipeByCount>false</d2p1:WipeByCount>
+      <d2p1:WipeOff>false</d2p1:WipeOff>
+      <d2p1:WipeOn>false</d2p1:WipeOn>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Wipe" i:type="d2p1:WipeData">
       <ModuleInstanceId>ec9b2e5b-b986-4e06-8d7d-748582504260</ModuleInstanceId>
@@ -1234,6 +1252,8 @@
       <d2p1:PulsePercent>33</d2p1:PulsePercent>
       <d2p1:PulseTime>5000</d2p1:PulseTime>
       <d2p1:WipeByCount>false</d2p1:WipeByCount>
+      <d2p1:WipeOff>false</d2p1:WipeOff>
+      <d2p1:WipeOn>false</d2p1:WipeOn>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
       <ModuleInstanceId>f58a9a37-1153-4f86-a40e-7c196fe9819b</ModuleInstanceId>
@@ -1418,6 +1438,8 @@
       <d2p1:PulsePercent>33</d2p1:PulsePercent>
       <d2p1:PulseTime>5000</d2p1:PulseTime>
       <d2p1:WipeByCount>false</d2p1:WipeByCount>
+      <d2p1:WipeOff>false</d2p1:WipeOff>
+      <d2p1:WipeOn>false</d2p1:WipeOn>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Wipe" i:type="d2p1:WipeData">
       <ModuleInstanceId>0c0e4c7d-9dc2-43aa-aeaa-beaf0ba5f02c</ModuleInstanceId>
@@ -1504,6 +1526,8 @@
       <d2p1:PulsePercent>33</d2p1:PulsePercent>
       <d2p1:PulseTime>5000</d2p1:PulseTime>
       <d2p1:WipeByCount>false</d2p1:WipeByCount>
+      <d2p1:WipeOff>false</d2p1:WipeOff>
+      <d2p1:WipeOn>false</d2p1:WipeOn>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
       <ModuleInstanceId>ed52fc1f-4ac8-4b20-b7e5-cf8037811a08</ModuleInstanceId>
@@ -1650,6 +1674,8 @@
       <d2p1:PulsePercent>33</d2p1:PulsePercent>
       <d2p1:PulseTime>5000</d2p1:PulseTime>
       <d2p1:WipeByCount>false</d2p1:WipeByCount>
+      <d2p1:WipeOff>false</d2p1:WipeOff>
+      <d2p1:WipeOn>false</d2p1:WipeOn>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
       <ModuleInstanceId>ea122859-413c-468e-b7e7-c81f9d8beab7</ModuleInstanceId>
@@ -1796,6 +1822,8 @@
       <d2p1:PulsePercent>33</d2p1:PulsePercent>
       <d2p1:PulseTime>5000</d2p1:PulseTime>
       <d2p1:WipeByCount>false</d2p1:WipeByCount>
+      <d2p1:WipeOff>false</d2p1:WipeOff>
+      <d2p1:WipeOn>false</d2p1:WipeOn>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Wipe" i:type="d2p1:WipeData">
       <ModuleInstanceId>f76a1e44-6bb5-40ed-949e-f08a90358534</ModuleInstanceId>
@@ -1893,6 +1921,8 @@
       <d2p1:PulsePercent>33</d2p1:PulsePercent>
       <d2p1:PulseTime>5000</d2p1:PulseTime>
       <d2p1:WipeByCount>false</d2p1:WipeByCount>
+      <d2p1:WipeOff>false</d2p1:WipeOff>
+      <d2p1:WipeOn>false</d2p1:WipeOn>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
       <ModuleInstanceId>918bcd8a-29ac-4aba-92f2-d862d2ada29f</ModuleInstanceId>
@@ -2120,11 +2150,11 @@
       <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>709b0af8-3f32-43a2-bc58-f93d24ebc655</InstanceId>
+      <InstanceId>dc5ca1f2-8d34-4e7a-857a-e8facf1c7906</InstanceId>
       <StartTime>PT2M19.3656095S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
+          <NodeId>1f61d9ca-ff8c-468c-85cd-0fbde8590ae9</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT42.6775336S</TimeSpan>
@@ -2153,11 +2183,11 @@
       <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>dc5ca1f2-8d34-4e7a-857a-e8facf1c7906</InstanceId>
+      <InstanceId>709b0af8-3f32-43a2-bc58-f93d24ebc655</InstanceId>
       <StartTime>PT2M19.3656095S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
-          <NodeId>1f61d9ca-ff8c-468c-85cd-0fbde8590ae9</NodeId>
+          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
       <TimeSpan>PT42.6775336S</TimeSpan>
@@ -2346,7 +2376,7 @@
   <DefaultPlaybackEndTime i:nil="true" />
   <DefaultPlaybackStartTime>PT0S</DefaultPlaybackStartTime>
   <DefaultRowHeight>32</DefaultRowHeight>
-  <DefaultSplitterDistance>0</DefaultSplitterDistance>
+  <DefaultSplitterDistance>250</DefaultSplitterDistance>
   <MarkCollections>
     <MarkCollection>
       <Bold>false</Bold>
@@ -2375,5 +2405,5 @@
   </MarkCollections>
   <RowSettings xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
   <TimePerPixel>PT0.2742383S</TimePerPixel>
-  <VisibleTimeStart>PT17.5513084S</VisibleTimeStart>
+  <VisibleTimeStart>PT3M54.7479848S</VisibleTimeStart>
 </TimedSequenceData>

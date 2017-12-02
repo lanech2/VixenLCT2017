@@ -2389,17 +2389,6 @@
       <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>5b425bdf-8aaf-46c3-ae90-fb51067893b8</InstanceId>
-      <StartTime>PT2M33.249S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT17.732S</TimeSpan>
-      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
       <InstanceId>6f2a04e6-0aef-4b2e-b574-3e80d31ceb91</InstanceId>
       <StartTime>PT2M33.249S</StartTime>
       <TargetNodes>
@@ -2412,6 +2401,28 @@
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
       <InstanceId>38a0ae42-189f-4217-87a7-12f6f160b70d</InstanceId>
+      <StartTime>PT2M33.249S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>1f61d9ca-ff8c-468c-85cd-0fbde8590ae9</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT17.732S</TimeSpan>
+      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>5b425bdf-8aaf-46c3-ae90-fb51067893b8</InstanceId>
+      <StartTime>PT2M33.249S</StartTime>
+      <TargetNodes>
+        <ChannelNodeReferenceSurrogate>
+          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
+        </ChannelNodeReferenceSurrogate>
+      </TargetNodes>
+      <TimeSpan>PT17.732S</TimeSpan>
+      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
+    </EffectNodeSurrogate>
+    <EffectNodeSurrogate>
+      <InstanceId>75ce7e24-08fb-4573-b327-667736a31eb4</InstanceId>
       <StartTime>PT2M33.249S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
@@ -2442,17 +2453,6 @@
       </TargetNodes>
       <TimeSpan>PT17.732S</TimeSpan>
       <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
-      <InstanceId>75ce7e24-08fb-4573-b327-667736a31eb4</InstanceId>
-      <StartTime>PT2M33.249S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <NodeId>1f61d9ca-ff8c-468c-85cd-0fbde8590ae9</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT17.732S</TimeSpan>
-      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
       <InstanceId>7420fd82-61f3-48bd-ac16-d3b2609f5bff</InstanceId>
@@ -2624,7 +2624,7 @@
     <SourceName>14 Track 14.mp3</SourceName>
   </_selectedTimingProviderSurrogate>
   <DefaultPlaybackEndTime i:nil="true" />
-  <DefaultPlaybackStartTime>PT3M18.587628S</DefaultPlaybackStartTime>
+  <DefaultPlaybackStartTime>PT0S</DefaultPlaybackStartTime>
   <DefaultRowHeight>40</DefaultRowHeight>
   <DefaultSplitterDistance>250</DefaultSplitterDistance>
   <MarkCollections>
