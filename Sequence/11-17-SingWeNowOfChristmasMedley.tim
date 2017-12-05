@@ -32,7 +32,7 @@
       <ModuleInstanceId>8c096e62-a81c-4b96-b82b-efa22ffb1620</ModuleInstanceId>
       <ModuleTypeId>a4b7255d-0011-481f-8065-a7e5f14b39f9</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Locations</TargetPositioning>
-      <d2p1:ColorType>Preset3</d2p1:ColorType>
+      <d2p1:ColorType>Normal</d2p1:ColorType>
       <d2p1:Colors xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:ColorGradient>
           <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
@@ -53,14 +53,43 @@
               <d3p1:_focus>0.5</d3p1:_focus>
               <d3p1:_position>0</d3p1:_position>
               <d3p1:_color xmlns:d7p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-                <d7p1:_x>53.778713749278168</d7p1:_x>
-                <d7p1:_y>25.639402795104672</d7p1:_y>
-                <d7p1:_z>96.722187084794982</d7p1:_z>
+                <d7p1:_x>42.011170416728113</d7p1:_x>
+                <d7p1:_y>21.569707908904526</d7p1:_y>
+                <d7p1:_z>5.9871059070044623</d7p1:_z>
               </d3p1:_color>
             </d3p1:ColorPoint>
           </d3p1:_colors>
           <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-          <d3p1:_libraryReferenceName>Pink</d3p1:_libraryReferenceName>
+          <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+          <d3p1:_title i:nil="true" />
+        </d3p1:ColorGradient>
+        <d3p1:ColorGradient>
+          <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+          <d3p1:_alphas>
+            <d3p1:AlphaPoint>
+              <d3p1:_focus>0.5</d3p1:_focus>
+              <d3p1:_position>0</d3p1:_position>
+              <d3p1:_alpha>1</d3p1:_alpha>
+            </d3p1:AlphaPoint>
+            <d3p1:AlphaPoint>
+              <d3p1:_focus>0.5</d3p1:_focus>
+              <d3p1:_position>1</d3p1:_position>
+              <d3p1:_alpha>1</d3p1:_alpha>
+            </d3p1:AlphaPoint>
+          </d3p1:_alphas>
+          <d3p1:_colors>
+            <d3p1:ColorPoint>
+              <d3p1:_focus>0.5</d3p1:_focus>
+              <d3p1:_position>0</d3p1:_position>
+              <d3p1:_color xmlns:d7p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+                <d7p1:_x>53.1504546081593</d7p1:_x>
+                <d7p1:_y>45.080783597241073</d7p1:_y>
+                <d7p1:_z>5.9005388035462563</d7p1:_z>
+              </d3p1:_color>
+            </d3p1:ColorPoint>
+          </d3p1:_colors>
+          <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+          <d3p1:_libraryReferenceName>Orange</d3p1:_libraryReferenceName>
           <d3p1:_title i:nil="true" />
         </d3p1:ColorGradient>
         <d3p1:ColorGradient>
@@ -111,6 +140,35 @@
               <d3p1:_focus>0.5</d3p1:_focus>
               <d3p1:_position>0</d3p1:_position>
               <d3p1:_color xmlns:d7p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+                <d7p1:_x>20.655160930959479</d7p1:_x>
+                <d7p1:_y>41.310245262550026</d7p1:_y>
+                <d7p1:_z>6.8850388584651583</d7p1:_z>
+              </d3p1:_color>
+            </d3p1:ColorPoint>
+          </d3p1:_colors>
+          <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+          <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+          <d3p1:_title i:nil="true" />
+        </d3p1:ColorGradient>
+        <d3p1:ColorGradient>
+          <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+          <d3p1:_alphas>
+            <d3p1:AlphaPoint>
+              <d3p1:_focus>0.5</d3p1:_focus>
+              <d3p1:_position>0</d3p1:_position>
+              <d3p1:_alpha>1</d3p1:_alpha>
+            </d3p1:AlphaPoint>
+            <d3p1:AlphaPoint>
+              <d3p1:_focus>0.5</d3p1:_focus>
+              <d3p1:_position>1</d3p1:_position>
+              <d3p1:_alpha>1</d3p1:_alpha>
+            </d3p1:AlphaPoint>
+          </d3p1:_alphas>
+          <d3p1:_colors>
+            <d3p1:ColorPoint>
+              <d3p1:_focus>0.5</d3p1:_focus>
+              <d3p1:_position>0</d3p1:_position>
+              <d3p1:_color xmlns:d7p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
                 <d7p1:_x>21.192577762115288</d7p1:_x>
                 <d7p1:_y>11.0059510435513</d7p1:_y>
                 <d7p1:_z>95.615130195778164</d7p1:_z>
@@ -119,6 +177,35 @@
           </d3p1:_colors>
           <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
           <d3p1:_libraryReferenceName>Darker Blue</d3p1:_libraryReferenceName>
+          <d3p1:_title i:nil="true" />
+        </d3p1:ColorGradient>
+        <d3p1:ColorGradient>
+          <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+          <d3p1:_alphas>
+            <d3p1:AlphaPoint>
+              <d3p1:_focus>0.5</d3p1:_focus>
+              <d3p1:_position>0</d3p1:_position>
+              <d3p1:_alpha>1</d3p1:_alpha>
+            </d3p1:AlphaPoint>
+            <d3p1:AlphaPoint>
+              <d3p1:_focus>0.5</d3p1:_focus>
+              <d3p1:_position>1</d3p1:_position>
+              <d3p1:_alpha>1</d3p1:_alpha>
+            </d3p1:AlphaPoint>
+          </d3p1:_alphas>
+          <d3p1:_colors>
+            <d3p1:ColorPoint>
+              <d3p1:_focus>0.5</d3p1:_focus>
+              <d3p1:_position>0</d3p1:_position>
+              <d3p1:_color xmlns:d7p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+                <d7p1:_x>30.104132251479605</d7p1:_x>
+                <d7p1:_y>13.434133163590117</d7p1:_y>
+                <d7p1:_z>95.614124036017344</d7p1:_z>
+              </d3p1:_color>
+            </d3p1:ColorPoint>
+          </d3p1:_colors>
+          <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+          <d3p1:_libraryReferenceName>Purple</d3p1:_libraryReferenceName>
           <d3p1:_title i:nil="true" />
         </d3p1:ColorGradient>
       </d2p1:Colors>

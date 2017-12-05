@@ -29,10 +29,10 @@
   <Version xmlns="">0</Version>
   <_dataModels xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns="">
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.PinWheel" i:type="d2p1:PinWheelData">
-      <ModuleInstanceId>7d359dbf-7b4e-4b28-84da-f535e1c7a4e5</ModuleInstanceId>
+      <ModuleInstanceId>12af3db2-5dc4-4668-9c4e-b25dfb441f39</ModuleInstanceId>
       <ModuleTypeId>089da093-a743-4eac-b962-7f29e4ba337d</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Locations</TargetPositioning>
-      <d2p1:Arms>4</d2p1:Arms>
+      <d2p1:Arms>2</d2p1:Arms>
       <d2p1:CenterHubCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
         <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
         <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
@@ -77,14 +77,14 @@
                 <d3p1:_focus>0.5</d3p1:_focus>
                 <d3p1:_position>0</d3p1:_position>
                 <d3p1:_color xmlns:d8p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-                  <d8p1:_x>41.24</d8p1:_x>
-                  <d8p1:_y>21.26</d8p1:_y>
-                  <d8p1:_z>1.93</d8p1:_z>
+                  <d8p1:_x>10.428304504835987</d8p1:_x>
+                  <d8p1:_y>4.1760156777169968</d8p1:_y>
+                  <d8p1:_z>54.900229836851778</d8p1:_z>
                 </d3p1:_color>
               </d3p1:ColorPoint>
             </d3p1:_colors>
             <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-            <d3p1:_libraryReferenceName i:nil="true" />
+            <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
             <d3p1:_title i:nil="true" />
           </d3p1:ColorGradient>
           <d3p1:Curve xmlns:d5p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
@@ -189,7 +189,7 @@
       <d2p1:MovementType>Speed</d2p1:MovementType>
       <d2p1:Orientation>Vertical</d2p1:Orientation>
       <d2p1:PinWheelBladeType>Flat</d2p1:PinWheelBladeType>
-      <d2p1:Rotation>Backward</d2p1:Rotation>
+      <d2p1:Rotation>Forward</d2p1:Rotation>
       <d2p1:SizeCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
         <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
         <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
@@ -324,7 +324,7 @@
       </d2p1:YOffsetCurve>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
-      <ModuleInstanceId>2e8f66d8-99ec-4c1f-b86c-d90080406362</ModuleInstanceId>
+      <ModuleInstanceId>bdf4a7e4-8371-4b64-b5aa-5c2138b51ea5</ModuleInstanceId>
       <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
       <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
@@ -375,26 +375,26 @@
   </_dataModels>
   <_effectNodeSurrogates xmlns="">
     <EffectNodeSurrogate>
-      <InstanceId>2e8f66d8-99ec-4c1f-b86c-d90080406362</InstanceId>
+      <InstanceId>12af3db2-5dc4-4668-9c4e-b25dfb441f39</InstanceId>
       <StartTime>PT0S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT9.4513428S</TimeSpan>
-      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
+      <TimeSpan>PT11.0386848S</TimeSpan>
+      <TypeId>089da093-a743-4eac-b962-7f29e4ba337d</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
-      <InstanceId>7d359dbf-7b4e-4b28-84da-f535e1c7a4e5</InstanceId>
+      <InstanceId>bdf4a7e4-8371-4b64-b5aa-5c2138b51ea5</InstanceId>
       <StartTime>PT0S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT9.4513428S</TimeSpan>
-      <TypeId>089da093-a743-4eac-b962-7f29e4ba337d</TypeId>
+      <TimeSpan>PT11.0386848S</TimeSpan>
+      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
     </EffectNodeSurrogate>
   </_effectNodeSurrogates>
   <_filterNodeSurrogates xmlns="" />

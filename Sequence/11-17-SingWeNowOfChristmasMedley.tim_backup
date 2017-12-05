@@ -29,10 +29,10 @@
   <Version xmlns="">0</Version>
   <_dataModels xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns="">
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Plasma" i:type="d2p1:PlasmaData">
-      <ModuleInstanceId>2437d982-f3a3-4e09-a21a-31776904bf9f</ModuleInstanceId>
+      <ModuleInstanceId>8c096e62-a81c-4b96-b82b-efa22ffb1620</ModuleInstanceId>
       <ModuleTypeId>a4b7255d-0011-481f-8065-a7e5f14b39f9</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Locations</TargetPositioning>
-      <d2p1:ColorType>Normal</d2p1:ColorType>
+      <d2p1:ColorType>Preset3</d2p1:ColorType>
       <d2p1:Colors xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
         <d3p1:ColorGradient>
           <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
@@ -194,14 +194,14 @@
   </_dataModels>
   <_effectNodeSurrogates xmlns="">
     <EffectNodeSurrogate>
-      <InstanceId>2437d982-f3a3-4e09-a21a-31776904bf9f</InstanceId>
+      <InstanceId>8c096e62-a81c-4b96-b82b-efa22ffb1620</InstanceId>
       <StartTime>PT0S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT11.276948S</TimeSpan>
+      <TimeSpan>PT24.0400796S</TimeSpan>
       <TypeId>a4b7255d-0011-481f-8065-a7e5f14b39f9</TypeId>
     </EffectNodeSurrogate>
   </_effectNodeSurrogates>

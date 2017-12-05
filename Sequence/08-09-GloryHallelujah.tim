@@ -789,7 +789,7 @@
       <d2p1:DepthOfEffect>0</d2p1:DepthOfEffect>
       <d2p1:IndividualChannels>true</d2p1:IndividualChannels>
       <d2p1:LevelVariation>50</d2p1:LevelVariation>
-      <d2p1:MaximumLevel>0.5</d2p1:MaximumLevel>
+      <d2p1:MaximumLevel>0.2</d2p1:MaximumLevel>
       <d2p1:MinimumLevel>0</d2p1:MinimumLevel>
       <d2p1:PulseTimeVariation>30</d2p1:PulseTimeVariation>
       <d2p1:StaticColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
