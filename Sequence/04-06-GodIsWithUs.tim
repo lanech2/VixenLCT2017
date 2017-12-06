@@ -108,7 +108,7 @@
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT10.1626465S</TimeSpan>
+      <TimeSpan>PT14.0741737S</TimeSpan>
       <TypeId>e2ef89d5-c3b3-47e7-a776-f31b4193fc76</TypeId>
     </EffectNodeSurrogate>
   </_effectNodeSurrogates>
@@ -123,7 +123,7 @@
   <DefaultPlaybackEndTime i:nil="true" />
   <DefaultPlaybackStartTime>PT0S</DefaultPlaybackStartTime>
   <DefaultRowHeight>32</DefaultRowHeight>
-  <DefaultSplitterDistance>0</DefaultSplitterDistance>
+  <DefaultSplitterDistance>250</DefaultSplitterDistance>
   <MarkCollections />
   <RowSettings xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
   <TimePerPixel>PT0.0931316S</TimePerPixel>

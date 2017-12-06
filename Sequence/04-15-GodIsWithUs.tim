@@ -290,7 +290,7 @@
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT10.0267636S</TimeSpan>
+      <TimeSpan>PT13.1001064S</TimeSpan>
       <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -301,7 +301,7 @@
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT10.0267636S</TimeSpan>
+      <TimeSpan>PT13.1001064S</TimeSpan>
       <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -312,7 +312,7 @@
           <NodeId>990e7a89-00e3-4b80-a908-161200535682</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT9.9867636S</TimeSpan>
+      <TimeSpan>PT13.0601064S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -323,7 +323,7 @@
           <NodeId>08fe4c85-ee20-4312-a78f-97f9b6dbea66</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT9.9867636S</TimeSpan>
+      <TimeSpan>PT13.0601064S</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
   </_effectNodeSurrogates>
@@ -338,7 +338,7 @@
   <DefaultPlaybackEndTime i:nil="true" />
   <DefaultPlaybackStartTime>PT0S</DefaultPlaybackStartTime>
   <DefaultRowHeight>32</DefaultRowHeight>
-  <DefaultSplitterDistance>0</DefaultSplitterDistance>
+  <DefaultSplitterDistance>250</DefaultSplitterDistance>
   <MarkCollections />
   <RowSettings xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
   <TimePerPixel>PT0.0931316S</TimePerPixel>

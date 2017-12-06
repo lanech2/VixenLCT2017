@@ -28,157 +28,18 @@
   </SequenceLayers>
   <Version xmlns="">0</Version>
   <_dataModels xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns="">
-    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
-      <ModuleInstanceId>7c565291-8420-4e28-8d86-1a7f32554691</ModuleInstanceId>
-      <ModuleTypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</ModuleTypeId>
-      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
-      <d2p1:AverageCoverage>50</d2p1:AverageCoverage>
-      <d2p1:AveragePulseTime>1500</d2p1:AveragePulseTime>
-      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
-        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
-        <d3p1:_alphas>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>1</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-        </d3p1:_alphas>
-        <d3p1:_colors>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>95.047</d6p1:_x>
-              <d6p1:_y>100</d6p1:_y>
-              <d6p1:_z>108.883</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-        </d3p1:_colors>
-        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName i:nil="true" />
-        <d3p1:_title i:nil="true" />
-      </d2p1:ColorGradient>
-      <d2p1:ColorHandling>GradientForEachPulse</d2p1:ColorHandling>
-      <d2p1:DepthOfEffect>0</d2p1:DepthOfEffect>
-      <d2p1:IndividualChannels>true</d2p1:IndividualChannels>
-      <d2p1:LevelVariation>50</d2p1:LevelVariation>
-      <d2p1:MaximumLevel>0.7</d2p1:MaximumLevel>
-      <d2p1:MinimumLevel>0</d2p1:MinimumLevel>
-      <d2p1:PulseTimeVariation>30</d2p1:PulseTimeVariation>
-      <d2p1:StaticColor xmlns:d3p1="http://schemas.datacontract.org/2004/07/System.Drawing">
-        <d3p1:knownColor>164</d3p1:knownColor>
-        <d3p1:name i:nil="true" />
-        <d3p1:state>1</d3p1:state>
-        <d3p1:value>0</d3p1:value>
-      </d2p1:StaticColor>
-    </d1p1:anyType>
-    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Wipe" i:type="d2p1:WipeData">
-      <ModuleInstanceId>f02d4578-57ef-44ca-9662-e92dd5771cb2</ModuleInstanceId>
-      <ModuleTypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</ModuleTypeId>
-      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
-      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
-        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
-        <d3p1:_alphas>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>1</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-        </d3p1:_alphas>
-        <d3p1:_colors>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>1</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>2.7759311571521503</d6p1:_x>
-              <d6p1:_y>1.3677592273087136</d6p1:_y>
-              <d6p1:_z>9.5688891847089828</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>29.894626049546357</d6p1:_x>
-              <d6p1:_y>16.247796556423538</d6p1:_y>
-              <d6p1:_z>2.1327826509303929</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.19689119170984457</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>49.438874061873769</d6p1:_x>
-              <d6p1:_y>39.487250719523459</d6p1:_y>
-              <d6p1:_z>11.319417733264459</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.5</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>27.415837198150783</d6p1:_x>
-              <d6p1:_y>50.739354936053566</d6p1:_y>
-              <d6p1:_z>18.704639436914093</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.69170984455958551</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>9.6785529259411689</d6p1:_x>
-              <d6p1:_y>14.275137060758844</d6p1:_y>
-              <d6p1:_z>17.284189926456811</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.8575129533678757</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>4.713031407010126</d6p1:_x>
-              <d6p1:_y>2.6258251246015645</d6p1:_y>
-              <d6p1:_z>19.327212731895422</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.36010362694300518</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>46.581121860984439</d6p1:_x>
-              <d6p1:_y>61.199762351084509</d6p1:_y>
-              <d6p1:_z>10.796494941915578</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-        </d3p1:_colors>
-        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName>Rainbow</d3p1:_libraryReferenceName>
-        <d3p1:_title i:nil="true" />
-      </d2p1:ColorGradient>
-      <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.PinWheel" i:type="d2p1:PinWheelData">
+      <ModuleInstanceId>e76e72ae-2fb9-4c57-8384-b615e86e5dd0</ModuleInstanceId>
+      <ModuleTypeId>089da093-a743-4eac-b962-7f29e4ba337d</ModuleTypeId>
+      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Locations</TargetPositioning>
+      <d2p1:Arms>6</d2p1:Arms>
+      <d2p1:CenterHubCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
         <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
         <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">0</X>
-            <Y i:type="a:double">29.926145585493956</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">50</X>
-            <Y i:type="a:double">70</Y>
+            <Y i:type="a:double">0</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
@@ -186,124 +47,183 @@
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">100</X>
-            <Y i:type="a:double">29.834178429491573</Y>
+            <Y i:type="a:double">0</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
           </d4p1:PointPair>
         </d3p1:Points>
-        <d3p1:_libraryReferenceName>30-70-30</d3p1:_libraryReferenceName>
-      </d2p1:Curve>
-      <d2p1:Direction>Right</d2p1:Direction>
-      <d2p1:PassCount>1</d2p1:PassCount>
-      <d2p1:PulsePercent>33</d2p1:PulsePercent>
-      <d2p1:PulseTime>1000</d2p1:PulseTime>
-      <d2p1:WipeByCount>false</d2p1:WipeByCount>
-      <d2p1:WipeOff>false</d2p1:WipeOff>
-      <d2p1:WipeOn>false</d2p1:WipeOn>
-    </d1p1:anyType>
-    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Wipe" i:type="d2p1:WipeData">
-      <ModuleInstanceId>8d5c8e5a-7f73-4834-b01b-860a044f551e</ModuleInstanceId>
-      <ModuleTypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</ModuleTypeId>
-      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
-      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
-        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
-        <d3p1:_alphas>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>1</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-        </d3p1:_alphas>
-        <d3p1:_colors>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>1</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>2.7759311571521503</d6p1:_x>
-              <d6p1:_y>1.3677592273087136</d6p1:_y>
-              <d6p1:_z>9.5688891847089828</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>29.894626049546357</d6p1:_x>
-              <d6p1:_y>16.247796556423538</d6p1:_y>
-              <d6p1:_z>2.1327826509303929</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.19689119170984457</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>49.438874061873769</d6p1:_x>
-              <d6p1:_y>39.487250719523459</d6p1:_y>
-              <d6p1:_z>11.319417733264459</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.5</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>27.415837198150783</d6p1:_x>
-              <d6p1:_y>50.739354936053566</d6p1:_y>
-              <d6p1:_z>18.704639436914093</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.69170984455958551</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>9.6785529259411689</d6p1:_x>
-              <d6p1:_y>14.275137060758844</d6p1:_y>
-              <d6p1:_z>17.284189926456811</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.8575129533678757</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>4.713031407010126</d6p1:_x>
-              <d6p1:_y>2.6258251246015645</d6p1:_y>
-              <d6p1:_z>19.327212731895422</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.36010362694300518</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>46.581121860984439</d6p1:_x>
-              <d6p1:_y>61.199762351084509</d6p1:_y>
-              <d6p1:_z>10.796494941915578</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-        </d3p1:_colors>
-        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName>Rainbow</d3p1:_libraryReferenceName>
-        <d3p1:_title i:nil="true" />
-      </d2p1:ColorGradient>
-      <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+      </d2p1:CenterHubCurve>
+      <d2p1:ColorType>Standard</d2p1:ColorType>
+      <d2p1:Colors xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
+        <d3p1:GradientLevelPair>
+          <d3p1:ColorGradient>
+            <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+            <d3p1:_alphas>
+              <d3p1:AlphaPoint>
+                <d3p1:_focus>0.5</d3p1:_focus>
+                <d3p1:_position>0</d3p1:_position>
+                <d3p1:_alpha>1</d3p1:_alpha>
+              </d3p1:AlphaPoint>
+              <d3p1:AlphaPoint>
+                <d3p1:_focus>0.5</d3p1:_focus>
+                <d3p1:_position>1</d3p1:_position>
+                <d3p1:_alpha>1</d3p1:_alpha>
+              </d3p1:AlphaPoint>
+            </d3p1:_alphas>
+            <d3p1:_colors>
+              <d3p1:ColorPoint>
+                <d3p1:_focus>0.5</d3p1:_focus>
+                <d3p1:_position>0</d3p1:_position>
+                <d3p1:_color xmlns:d8p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+                  <d8p1:_x>41.24</d8p1:_x>
+                  <d8p1:_y>21.26</d8p1:_y>
+                  <d8p1:_z>1.93</d8p1:_z>
+                </d3p1:_color>
+              </d3p1:ColorPoint>
+            </d3p1:_colors>
+            <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+            <d3p1:_libraryReferenceName i:nil="true" />
+            <d3p1:_title i:nil="true" />
+          </d3p1:ColorGradient>
+          <d3p1:Curve xmlns:d5p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+            <d5p1:IsCurrentLibraryCurve>false</d5p1:IsCurrentLibraryCurve>
+            <d5p1:Points xmlns:d6p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+              <d6p1:PointPair>
+                <schema i:type="a:int">11</schema>
+                <X i:type="a:double">0</X>
+                <Y i:type="a:double">70.195457725630249</Y>
+                <schema2 i:type="a:int">11</schema2>
+                <Z i:type="a:double">0</Z>
+                <Tag i:nil="true" />
+              </d6p1:PointPair>
+              <d6p1:PointPair>
+                <schema i:type="a:int">11</schema>
+                <X i:type="a:double">100</X>
+                <Y i:type="a:double">69.667943703075011</Y>
+                <schema2 i:type="a:int">11</schema2>
+                <Z i:type="a:double">0</Z>
+                <Tag i:nil="true" />
+              </d6p1:PointPair>
+            </d5p1:Points>
+            <d5p1:_libraryReferenceName>70</d5p1:_libraryReferenceName>
+          </d3p1:Curve>
+        </d3p1:GradientLevelPair>
+        <d3p1:GradientLevelPair>
+          <d3p1:ColorGradient>
+            <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+            <d3p1:_alphas>
+              <d3p1:AlphaPoint>
+                <d3p1:_focus>0.5</d3p1:_focus>
+                <d3p1:_position>0</d3p1:_position>
+                <d3p1:_alpha>1</d3p1:_alpha>
+              </d3p1:AlphaPoint>
+              <d3p1:AlphaPoint>
+                <d3p1:_focus>0.5</d3p1:_focus>
+                <d3p1:_position>1</d3p1:_position>
+                <d3p1:_alpha>1</d3p1:_alpha>
+              </d3p1:AlphaPoint>
+            </d3p1:_alphas>
+            <d3p1:_colors>
+              <d3p1:ColorPoint>
+                <d3p1:_focus>0.5</d3p1:_focus>
+                <d3p1:_position>0</d3p1:_position>
+                <d3p1:_color xmlns:d8p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+                  <d8p1:_x>35.76</d8p1:_x>
+                  <d8p1:_y>71.52</d8p1:_y>
+                  <d8p1:_z>11.92</d8p1:_z>
+                </d3p1:_color>
+              </d3p1:ColorPoint>
+            </d3p1:_colors>
+            <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+            <d3p1:_libraryReferenceName i:nil="true" />
+            <d3p1:_title i:nil="true" />
+          </d3p1:ColorGradient>
+          <d3p1:Curve xmlns:d5p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+            <d5p1:IsCurrentLibraryCurve>false</d5p1:IsCurrentLibraryCurve>
+            <d5p1:Points xmlns:d6p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+              <d6p1:PointPair>
+                <schema i:type="a:int">11</schema>
+                <X i:type="a:double">0</X>
+                <Y i:type="a:double">70.195457725630249</Y>
+                <schema2 i:type="a:int">11</schema2>
+                <Z i:type="a:double">0</Z>
+                <Tag i:nil="true" />
+              </d6p1:PointPair>
+              <d6p1:PointPair>
+                <schema i:type="a:int">11</schema>
+                <X i:type="a:double">100</X>
+                <Y i:type="a:double">69.667943703075011</Y>
+                <schema2 i:type="a:int">11</schema2>
+                <Z i:type="a:double">0</Z>
+                <Tag i:nil="true" />
+              </d6p1:PointPair>
+            </d5p1:Points>
+            <d5p1:_libraryReferenceName>70</d5p1:_libraryReferenceName>
+          </d3p1:Curve>
+        </d3p1:GradientLevelPair>
+        <d3p1:GradientLevelPair>
+          <d3p1:ColorGradient>
+            <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+            <d3p1:_alphas>
+              <d3p1:AlphaPoint>
+                <d3p1:_focus>0.5</d3p1:_focus>
+                <d3p1:_position>0</d3p1:_position>
+                <d3p1:_alpha>1</d3p1:_alpha>
+              </d3p1:AlphaPoint>
+              <d3p1:AlphaPoint>
+                <d3p1:_focus>0.5</d3p1:_focus>
+                <d3p1:_position>1</d3p1:_position>
+                <d3p1:_alpha>1</d3p1:_alpha>
+              </d3p1:AlphaPoint>
+            </d3p1:_alphas>
+            <d3p1:_colors>
+              <d3p1:ColorPoint>
+                <d3p1:_focus>0.5</d3p1:_focus>
+                <d3p1:_position>0</d3p1:_position>
+                <d3p1:_color xmlns:d8p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+                  <d8p1:_x>30.104132251479605</d8p1:_x>
+                  <d8p1:_y>13.434133163590117</d8p1:_y>
+                  <d8p1:_z>95.614124036017344</d8p1:_z>
+                </d3p1:_color>
+              </d3p1:ColorPoint>
+            </d3p1:_colors>
+            <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+            <d3p1:_libraryReferenceName>Purple</d3p1:_libraryReferenceName>
+            <d3p1:_title i:nil="true" />
+          </d3p1:ColorGradient>
+          <d3p1:Curve xmlns:d5p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+            <d5p1:IsCurrentLibraryCurve>false</d5p1:IsCurrentLibraryCurve>
+            <d5p1:Points xmlns:d6p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+              <d6p1:PointPair>
+                <schema i:type="a:int">11</schema>
+                <X i:type="a:double">0</X>
+                <Y i:type="a:double">70.195457725630249</Y>
+                <schema2 i:type="a:int">11</schema2>
+                <Z i:type="a:double">0</Z>
+                <Tag i:nil="true" />
+              </d6p1:PointPair>
+              <d6p1:PointPair>
+                <schema i:type="a:int">11</schema>
+                <X i:type="a:double">100</X>
+                <Y i:type="a:double">69.667943703075011</Y>
+                <schema2 i:type="a:int">11</schema2>
+                <Z i:type="a:double">0</Z>
+                <Tag i:nil="true" />
+              </d6p1:PointPair>
+            </d5p1:Points>
+            <d5p1:_libraryReferenceName>70</d5p1:_libraryReferenceName>
+          </d3p1:Curve>
+        </d3p1:GradientLevelPair>
+      </d2p1:Colors>
+      <d2p1:LevelCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
         <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
         <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">0</X>
-            <Y i:type="a:double">29.926145585493956</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">50</X>
-            <Y i:type="a:double">70</Y>
+            <Y i:type="a:double">70.195457725630249</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
@@ -311,124 +231,25 @@
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">100</X>
-            <Y i:type="a:double">29.834178429491573</Y>
+            <Y i:type="a:double">69.667943703075011</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
           </d4p1:PointPair>
         </d3p1:Points>
-        <d3p1:_libraryReferenceName>30-70-30</d3p1:_libraryReferenceName>
-      </d2p1:Curve>
-      <d2p1:Direction>Out</d2p1:Direction>
-      <d2p1:PassCount>1</d2p1:PassCount>
-      <d2p1:PulsePercent>33</d2p1:PulsePercent>
-      <d2p1:PulseTime>1000</d2p1:PulseTime>
-      <d2p1:WipeByCount>false</d2p1:WipeByCount>
-      <d2p1:WipeOff>false</d2p1:WipeOff>
-      <d2p1:WipeOn>false</d2p1:WipeOn>
-    </d1p1:anyType>
-    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Wipe" i:type="d2p1:WipeData">
-      <ModuleInstanceId>f1d44cdf-af34-4b61-81f9-e834c282af5a</ModuleInstanceId>
-      <ModuleTypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</ModuleTypeId>
-      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
-      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
-        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
-        <d3p1:_alphas>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>1</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-        </d3p1:_alphas>
-        <d3p1:_colors>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>1</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>2.7759311571521503</d6p1:_x>
-              <d6p1:_y>1.3677592273087136</d6p1:_y>
-              <d6p1:_z>9.5688891847089828</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>29.894626049546357</d6p1:_x>
-              <d6p1:_y>16.247796556423538</d6p1:_y>
-              <d6p1:_z>2.1327826509303929</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.19689119170984457</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>49.438874061873769</d6p1:_x>
-              <d6p1:_y>39.487250719523459</d6p1:_y>
-              <d6p1:_z>11.319417733264459</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.5</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>27.415837198150783</d6p1:_x>
-              <d6p1:_y>50.739354936053566</d6p1:_y>
-              <d6p1:_z>18.704639436914093</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.69170984455958551</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>9.6785529259411689</d6p1:_x>
-              <d6p1:_y>14.275137060758844</d6p1:_y>
-              <d6p1:_z>17.284189926456811</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.8575129533678757</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>4.713031407010126</d6p1:_x>
-              <d6p1:_y>2.6258251246015645</d6p1:_y>
-              <d6p1:_z>19.327212731895422</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.36010362694300518</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>46.581121860984439</d6p1:_x>
-              <d6p1:_y>61.199762351084509</d6p1:_y>
-              <d6p1:_z>10.796494941915578</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-        </d3p1:_colors>
-        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName>Rainbow</d3p1:_libraryReferenceName>
-        <d3p1:_title i:nil="true" />
-      </d2p1:ColorGradient>
-      <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+        <d3p1:_libraryReferenceName>70</d3p1:_libraryReferenceName>
+      </d2p1:LevelCurve>
+      <d2p1:MovementType>Speed</d2p1:MovementType>
+      <d2p1:Orientation>Vertical</d2p1:Orientation>
+      <d2p1:PinWheelBladeType>Flat</d2p1:PinWheelBladeType>
+      <d2p1:Rotation>Forward</d2p1:Rotation>
+      <d2p1:SizeCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
         <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
         <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">0</X>
-            <Y i:type="a:double">29.926145585493956</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">50</X>
-            <Y i:type="a:double">70</Y>
+            <Y i:type="a:double">23</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
@@ -436,124 +257,21 @@
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">100</X>
-            <Y i:type="a:double">29.834178429491573</Y>
+            <Y i:type="a:double">23</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
           </d4p1:PointPair>
         </d3p1:Points>
-        <d3p1:_libraryReferenceName>30-70-30</d3p1:_libraryReferenceName>
-      </d2p1:Curve>
-      <d2p1:Direction>Up</d2p1:Direction>
-      <d2p1:PassCount>1</d2p1:PassCount>
-      <d2p1:PulsePercent>33</d2p1:PulsePercent>
-      <d2p1:PulseTime>1000</d2p1:PulseTime>
-      <d2p1:WipeByCount>false</d2p1:WipeByCount>
-      <d2p1:WipeOff>false</d2p1:WipeOff>
-      <d2p1:WipeOn>false</d2p1:WipeOn>
-    </d1p1:anyType>
-    <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Wipe" i:type="d2p1:WipeData">
-      <ModuleInstanceId>7a20de10-7c7e-4c43-a86f-421e2af21f4b</ModuleInstanceId>
-      <ModuleTypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</ModuleTypeId>
-      <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Strings</TargetPositioning>
-      <d2p1:ColorGradient xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.ColorGradients">
-        <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
-        <d3p1:_alphas>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-          <d3p1:AlphaPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>1</d3p1:_position>
-            <d3p1:_alpha>1</d3p1:_alpha>
-          </d3p1:AlphaPoint>
-        </d3p1:_alphas>
-        <d3p1:_colors>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>1</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>2.7759311571521503</d6p1:_x>
-              <d6p1:_y>1.3677592273087136</d6p1:_y>
-              <d6p1:_z>9.5688891847089828</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>29.894626049546357</d6p1:_x>
-              <d6p1:_y>16.247796556423538</d6p1:_y>
-              <d6p1:_z>2.1327826509303929</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.19689119170984457</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>49.438874061873769</d6p1:_x>
-              <d6p1:_y>39.487250719523459</d6p1:_y>
-              <d6p1:_z>11.319417733264459</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.5</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>27.415837198150783</d6p1:_x>
-              <d6p1:_y>50.739354936053566</d6p1:_y>
-              <d6p1:_z>18.704639436914093</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.69170984455958551</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>9.6785529259411689</d6p1:_x>
-              <d6p1:_y>14.275137060758844</d6p1:_y>
-              <d6p1:_z>17.284189926456811</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.8575129533678757</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>4.713031407010126</d6p1:_x>
-              <d6p1:_y>2.6258251246015645</d6p1:_y>
-              <d6p1:_z>19.327212731895422</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-          <d3p1:ColorPoint>
-            <d3p1:_focus>0.5</d3p1:_focus>
-            <d3p1:_position>0.36010362694300518</d3p1:_position>
-            <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-              <d6p1:_x>46.581121860984439</d6p1:_x>
-              <d6p1:_y>61.199762351084509</d6p1:_y>
-              <d6p1:_z>10.796494941915578</d6p1:_z>
-            </d3p1:_color>
-          </d3p1:ColorPoint>
-        </d3p1:_colors>
-        <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-        <d3p1:_libraryReferenceName>Rainbow</d3p1:_libraryReferenceName>
-        <d3p1:_title i:nil="true" />
-      </d2p1:ColorGradient>
-      <d2p1:Curve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+      </d2p1:SizeCurve>
+      <d2p1:SpeedCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
         <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
         <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">0</X>
-            <Y i:type="a:double">29.926145585493956</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">50</X>
-            <Y i:type="a:double">70</Y>
+            <Y i:type="a:double">5</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
@@ -561,78 +279,115 @@
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">100</X>
-            <Y i:type="a:double">29.834178429491573</Y>
+            <Y i:type="a:double">5</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
           </d4p1:PointPair>
         </d3p1:Points>
-        <d3p1:_libraryReferenceName>30-70-30</d3p1:_libraryReferenceName>
-      </d2p1:Curve>
-      <d2p1:Direction>Up</d2p1:Direction>
-      <d2p1:PassCount>1</d2p1:PassCount>
-      <d2p1:PulsePercent>33</d2p1:PulsePercent>
-      <d2p1:PulseTime>1000</d2p1:PulseTime>
-      <d2p1:WipeByCount>false</d2p1:WipeByCount>
-      <d2p1:WipeOff>false</d2p1:WipeOff>
-      <d2p1:WipeOn>false</d2p1:WipeOn>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+      </d2p1:SpeedCurve>
+      <d2p1:ThicknessCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
+        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">0</X>
+            <Y i:type="a:double">70.195457725630249</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">100</X>
+            <Y i:type="a:double">69.667943703075011</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+        </d3p1:Points>
+        <d3p1:_libraryReferenceName>70</d3p1:_libraryReferenceName>
+      </d2p1:ThicknessCurve>
+      <d2p1:TwistCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
+        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">0</X>
+            <Y i:type="a:double">0</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">100</X>
+            <Y i:type="a:double">0</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+        </d3p1:Points>
+        <d3p1:_libraryReferenceName>Zero</d3p1:_libraryReferenceName>
+      </d2p1:TwistCurve>
+      <d2p1:XOffsetCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
+        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">0</X>
+            <Y i:type="a:double">50</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">100</X>
+            <Y i:type="a:double">50</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+        </d3p1:Points>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+      </d2p1:XOffsetCurve>
+      <d2p1:YOffsetCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
+        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">0</X>
+            <Y i:type="a:double">50</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">100</X>
+            <Y i:type="a:double">50</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+        </d3p1:Points>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+      </d2p1:YOffsetCurve>
     </d1p1:anyType>
   </_dataModels>
   <_effectNodeSurrogates xmlns="">
     <EffectNodeSurrogate>
-      <InstanceId>7c565291-8420-4e28-8d86-1a7f32554691</InstanceId>
+      <InstanceId>e76e72ae-2fb9-4c57-8384-b615e86e5dd0</InstanceId>
       <StartTime>PT0S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT17.8002112S</TimeSpan>
-      <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
-      <InstanceId>f02d4578-57ef-44ca-9662-e92dd5771cb2</InstanceId>
-      <StartTime>PT0S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT17.8002112S</TimeSpan>
-      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
-      <InstanceId>8d5c8e5a-7f73-4834-b01b-860a044f551e</InstanceId>
-      <StartTime>PT0S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <NodeId>1f61d9ca-ff8c-468c-85cd-0fbde8590ae9</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT17.8002112S</TimeSpan>
-      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
-      <InstanceId>f1d44cdf-af34-4b61-81f9-e834c282af5a</InstanceId>
-      <StartTime>PT0S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <NodeId>990e7a89-00e3-4b80-a908-161200535682</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT17.8002112S</TimeSpan>
-      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
-    </EffectNodeSurrogate>
-    <EffectNodeSurrogate>
-      <InstanceId>7a20de10-7c7e-4c43-a86f-421e2af21f4b</InstanceId>
-      <StartTime>PT0S</StartTime>
-      <TargetNodes>
-        <ChannelNodeReferenceSurrogate>
-          <NodeId>08fe4c85-ee20-4312-a78f-97f9b6dbea66</NodeId>
-        </ChannelNodeReferenceSurrogate>
-      </TargetNodes>
-      <TimeSpan>PT17.8002112S</TimeSpan>
-      <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
+      <TimeSpan>PT11.2178164S</TimeSpan>
+      <TypeId>089da093-a743-4eac-b962-7f29e4ba337d</TypeId>
     </EffectNodeSurrogate>
   </_effectNodeSurrogates>
   <_filterNodeSurrogates xmlns="" />

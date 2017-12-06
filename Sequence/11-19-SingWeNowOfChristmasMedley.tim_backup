@@ -386,7 +386,7 @@
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT8.447S</TimeSpan>
+      <TimeSpan>PT10.8684216S</TimeSpan>
       <TypeId>089da093-a743-4eac-b962-7f29e4ba337d</TypeId>
     </EffectNodeSurrogate>
   </_effectNodeSurrogates>

@@ -29,7 +29,7 @@
   <Version xmlns="">0</Version>
   <_dataModels xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns="">
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Plasma" i:type="d2p1:PlasmaData">
-      <ModuleInstanceId>d595e11f-d26d-4c21-a9f7-d7d8a0926575</ModuleInstanceId>
+      <ModuleInstanceId>2437d982-f3a3-4e09-a21a-31776904bf9f</ModuleInstanceId>
       <ModuleTypeId>a4b7255d-0011-481f-8065-a7e5f14b39f9</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Locations</TargetPositioning>
       <d2p1:ColorType>Normal</d2p1:ColorType>
@@ -53,43 +53,14 @@
               <d3p1:_focus>0.5</d3p1:_focus>
               <d3p1:_position>0</d3p1:_position>
               <d3p1:_color xmlns:d7p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-                <d7p1:_x>35.76</d7p1:_x>
-                <d7p1:_y>71.52</d7p1:_y>
-                <d7p1:_z>11.92</d7p1:_z>
+                <d7p1:_x>53.778713749278168</d7p1:_x>
+                <d7p1:_y>25.639402795104672</d7p1:_y>
+                <d7p1:_z>96.722187084794982</d7p1:_z>
               </d3p1:_color>
             </d3p1:ColorPoint>
           </d3p1:_colors>
           <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-          <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
-          <d3p1:_title i:nil="true" />
-        </d3p1:ColorGradient>
-        <d3p1:ColorGradient>
-          <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
-          <d3p1:_alphas>
-            <d3p1:AlphaPoint>
-              <d3p1:_focus>0.5</d3p1:_focus>
-              <d3p1:_position>0</d3p1:_position>
-              <d3p1:_alpha>1</d3p1:_alpha>
-            </d3p1:AlphaPoint>
-            <d3p1:AlphaPoint>
-              <d3p1:_focus>0.5</d3p1:_focus>
-              <d3p1:_position>1</d3p1:_position>
-              <d3p1:_alpha>1</d3p1:_alpha>
-            </d3p1:AlphaPoint>
-          </d3p1:_alphas>
-          <d3p1:_colors>
-            <d3p1:ColorPoint>
-              <d3p1:_focus>0.5</d3p1:_focus>
-              <d3p1:_position>0</d3p1:_position>
-              <d3p1:_color xmlns:d7p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-                <d7p1:_x>21.192577762115288</d7p1:_x>
-                <d7p1:_y>11.0059510435513</d7p1:_y>
-                <d7p1:_z>95.615130195778164</d7p1:_z>
-              </d3p1:_color>
-            </d3p1:ColorPoint>
-          </d3p1:_colors>
-          <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-          <d3p1:_libraryReferenceName>Darker Blue</d3p1:_libraryReferenceName>
+          <d3p1:_libraryReferenceName>Pink</d3p1:_libraryReferenceName>
           <d3p1:_title i:nil="true" />
         </d3p1:ColorGradient>
         <d3p1:ColorGradient>
@@ -119,6 +90,35 @@
           </d3p1:_colors>
           <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
           <d3p1:_libraryReferenceName>Yellow</d3p1:_libraryReferenceName>
+          <d3p1:_title i:nil="true" />
+        </d3p1:ColorGradient>
+        <d3p1:ColorGradient>
+          <d3p1:IsCurrentLibraryGradient>false</d3p1:IsCurrentLibraryGradient>
+          <d3p1:_alphas>
+            <d3p1:AlphaPoint>
+              <d3p1:_focus>0.5</d3p1:_focus>
+              <d3p1:_position>0</d3p1:_position>
+              <d3p1:_alpha>1</d3p1:_alpha>
+            </d3p1:AlphaPoint>
+            <d3p1:AlphaPoint>
+              <d3p1:_focus>0.5</d3p1:_focus>
+              <d3p1:_position>1</d3p1:_position>
+              <d3p1:_alpha>1</d3p1:_alpha>
+            </d3p1:AlphaPoint>
+          </d3p1:_alphas>
+          <d3p1:_colors>
+            <d3p1:ColorPoint>
+              <d3p1:_focus>0.5</d3p1:_focus>
+              <d3p1:_position>0</d3p1:_position>
+              <d3p1:_color xmlns:d7p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
+                <d7p1:_x>21.192577762115288</d7p1:_x>
+                <d7p1:_y>11.0059510435513</d7p1:_y>
+                <d7p1:_z>95.615130195778164</d7p1:_z>
+              </d3p1:_color>
+            </d3p1:ColorPoint>
+          </d3p1:_colors>
+          <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
+          <d3p1:_libraryReferenceName>Darker Blue</d3p1:_libraryReferenceName>
           <d3p1:_title i:nil="true" />
         </d3p1:ColorGradient>
       </d2p1:Colors>
@@ -194,14 +194,14 @@
   </_dataModels>
   <_effectNodeSurrogates xmlns="">
     <EffectNodeSurrogate>
-      <InstanceId>d595e11f-d26d-4c21-a9f7-d7d8a0926575</InstanceId>
+      <InstanceId>2437d982-f3a3-4e09-a21a-31776904bf9f</InstanceId>
       <StartTime>PT0S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT11.6494744S</TimeSpan>
+      <TimeSpan>PT11.276948S</TimeSpan>
       <TypeId>a4b7255d-0011-481f-8065-a7e5f14b39f9</TypeId>
     </EffectNodeSurrogate>
   </_effectNodeSurrogates>

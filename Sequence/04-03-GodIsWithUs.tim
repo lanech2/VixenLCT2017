@@ -84,6 +84,8 @@
       <d2p1:PulsePercent>33</d2p1:PulsePercent>
       <d2p1:PulseTime>1000</d2p1:PulseTime>
       <d2p1:WipeByCount>true</d2p1:WipeByCount>
+      <d2p1:WipeOff>false</d2p1:WipeOff>
+      <d2p1:WipeOn>false</d2p1:WipeOn>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Twinkle" i:type="d2p1:TwinkleData">
       <ModuleInstanceId>52f4cc04-03ca-43bb-a88b-ddd90f8948c1</ModuleInstanceId>
@@ -112,7 +114,7 @@
             <d3p1:_color xmlns:d6p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
               <d6p1:_x>41.240781781038628</d6p1:_x>
               <d6p1:_y>21.2615525876374</d6p1:_y>
-              <d6p1:_z>1.9302944264690523</d6p1:_z>
+              <d6p1:_z>1.9302944264690522</d6p1:_z>
             </d3p1:_color>
           </d3p1:ColorPoint>
           <d3p1:ColorPoint>
@@ -153,7 +155,7 @@
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT11.265625S</TimeSpan>
+      <TimeSpan>PT14.2458362S</TimeSpan>
       <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -164,7 +166,7 @@
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT11.265625S</TimeSpan>
+      <TimeSpan>PT14.2458362S</TimeSpan>
       <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
     </EffectNodeSurrogate>
   </_effectNodeSurrogates>
@@ -179,7 +181,7 @@
   <DefaultPlaybackEndTime i:nil="true" />
   <DefaultPlaybackStartTime>PT0S</DefaultPlaybackStartTime>
   <DefaultRowHeight>32</DefaultRowHeight>
-  <DefaultSplitterDistance>0</DefaultSplitterDistance>
+  <DefaultSplitterDistance>250</DefaultSplitterDistance>
   <MarkCollections />
   <RowSettings xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
   <TimePerPixel>PT0.0931316S</TimePerPixel>

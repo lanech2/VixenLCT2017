@@ -29,10 +29,10 @@
   <Version xmlns="">0</Version>
   <_dataModels xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns="">
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.PinWheel" i:type="d2p1:PinWheelData">
-      <ModuleInstanceId>e76e72ae-2fb9-4c57-8384-b615e86e5dd0</ModuleInstanceId>
+      <ModuleInstanceId>3220e3e0-b094-4a3a-8453-1f47e52e28fa</ModuleInstanceId>
       <ModuleTypeId>089da093-a743-4eac-b962-7f29e4ba337d</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Locations</TargetPositioning>
-      <d2p1:Arms>6</d2p1:Arms>
+      <d2p1:Arms>3</d2p1:Arms>
       <d2p1:CenterHubCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
         <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
         <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
@@ -242,7 +242,7 @@
       <d2p1:MovementType>Speed</d2p1:MovementType>
       <d2p1:Orientation>Vertical</d2p1:Orientation>
       <d2p1:PinWheelBladeType>Flat</d2p1:PinWheelBladeType>
-      <d2p1:Rotation>Forward</d2p1:Rotation>
+      <d2p1:Rotation>Backward</d2p1:Rotation>
       <d2p1:SizeCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
         <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
         <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
@@ -379,14 +379,14 @@
   </_dataModels>
   <_effectNodeSurrogates xmlns="">
     <EffectNodeSurrogate>
-      <InstanceId>e76e72ae-2fb9-4c57-8384-b615e86e5dd0</InstanceId>
+      <InstanceId>3220e3e0-b094-4a3a-8453-1f47e52e28fa</InstanceId>
       <StartTime>PT0S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT11.2178164S</TimeSpan>
+      <TimeSpan>PT11.1098164S</TimeSpan>
       <TypeId>089da093-a743-4eac-b962-7f29e4ba337d</TypeId>
     </EffectNodeSurrogate>
   </_effectNodeSurrogates>

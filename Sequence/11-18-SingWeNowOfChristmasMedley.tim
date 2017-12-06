@@ -271,7 +271,7 @@
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">0</X>
-            <Y i:type="a:double">5</Y>
+            <Y i:type="a:double">2</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
@@ -279,13 +279,13 @@
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">100</X>
-            <Y i:type="a:double">5</Y>
+            <Y i:type="a:double">2</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
           </d4p1:PointPair>
         </d3p1:Points>
-        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+        <d3p1:_libraryReferenceName>2</d3p1:_libraryReferenceName>
       </d2p1:SpeedCurve>
       <d2p1:ThicknessCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
         <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
@@ -386,7 +386,7 @@
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT10.9665532S</TimeSpan>
+      <TimeSpan>PT14.1330276S</TimeSpan>
       <TypeId>089da093-a743-4eac-b962-7f29e4ba337d</TypeId>
     </EffectNodeSurrogate>
   </_effectNodeSurrogates>

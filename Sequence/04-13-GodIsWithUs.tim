@@ -218,6 +218,8 @@
       <d2p1:PulsePercent>33</d2p1:PulsePercent>
       <d2p1:PulseTime>3000</d2p1:PulseTime>
       <d2p1:WipeByCount>false</d2p1:WipeByCount>
+      <d2p1:WipeOff>false</d2p1:WipeOff>
+      <d2p1:WipeOn>false</d2p1:WipeOn>
     </d1p1:anyType>
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Wipe" i:type="d2p1:WipeData">
       <ModuleInstanceId>2a7be05c-4590-406a-b0b0-eac5d0a1d40a</ModuleInstanceId>
@@ -305,6 +307,8 @@
       <d2p1:PulsePercent>33</d2p1:PulsePercent>
       <d2p1:PulseTime>3000</d2p1:PulseTime>
       <d2p1:WipeByCount>false</d2p1:WipeByCount>
+      <d2p1:WipeOff>false</d2p1:WipeOff>
+      <d2p1:WipeOn>false</d2p1:WipeOn>
     </d1p1:anyType>
   </_dataModels>
   <_effectNodeSurrogates xmlns="">
@@ -316,7 +320,7 @@
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT9.7473688S</TimeSpan>
+      <TimeSpan>PT13.193238S</TimeSpan>
       <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -327,7 +331,7 @@
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT9.7473688S</TimeSpan>
+      <TimeSpan>PT13.193238S</TimeSpan>
       <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -338,7 +342,7 @@
           <NodeId>990e7a89-00e3-4b80-a908-161200535682</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT9.7473688S</TimeSpan>
+      <TimeSpan>PT13.193238S</TimeSpan>
       <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -349,7 +353,7 @@
           <NodeId>08fe4c85-ee20-4312-a78f-97f9b6dbea66</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT9.7473688S</TimeSpan>
+      <TimeSpan>PT13.193238S</TimeSpan>
       <TypeId>61746b54-a96c-4723-8bd6-39c7ea985f80</TypeId>
     </EffectNodeSurrogate>
   </_effectNodeSurrogates>

@@ -271,7 +271,7 @@
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">0</X>
-            <Y i:type="a:double">5</Y>
+            <Y i:type="a:double">2</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
@@ -279,13 +279,13 @@
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">100</X>
-            <Y i:type="a:double">5</Y>
+            <Y i:type="a:double">2</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
           </d4p1:PointPair>
         </d3p1:Points>
-        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+        <d3p1:_libraryReferenceName>2</d3p1:_libraryReferenceName>
       </d2p1:SpeedCurve>
       <d2p1:ThicknessCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
         <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>

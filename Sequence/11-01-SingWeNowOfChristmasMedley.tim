@@ -208,7 +208,7 @@
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT51.0914744S</TimeSpan>
+      <TimeSpan>PT1M1.3359504S</TimeSpan>
       <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -219,7 +219,7 @@
           <NodeId>1f61d9ca-ff8c-468c-85cd-0fbde8590ae9</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT51.0914744S</TimeSpan>
+      <TimeSpan>PT1M1.3359504S</TimeSpan>
       <TypeId>83bdd6f7-19c7-4598-b8e3-7ce28c44e7db</TypeId>
     </EffectNodeSurrogate>
   </_effectNodeSurrogates>

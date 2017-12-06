@@ -404,14 +404,14 @@
                 <d3p1:_focus>0.5</d3p1:_focus>
                 <d3p1:_position>0</d3p1:_position>
                 <d3p1:_color xmlns:d8p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-                  <d8p1:_x>53.1504546081593</d8p1:_x>
-                  <d8p1:_y>45.080783597241073</d8p1:_y>
-                  <d8p1:_z>5.9005388035462563</d8p1:_z>
+                  <d8p1:_x>21.192577762115288</d8p1:_x>
+                  <d8p1:_y>11.0059510435513</d8p1:_y>
+                  <d8p1:_z>95.615130195778164</d8p1:_z>
                 </d3p1:_color>
               </d3p1:ColorPoint>
             </d3p1:_colors>
             <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-            <d3p1:_libraryReferenceName>Orange</d3p1:_libraryReferenceName>
+            <d3p1:_libraryReferenceName>Darker Blue</d3p1:_libraryReferenceName>
             <d3p1:_title i:nil="true" />
           </d3p1:ColorGradient>
           <d3p1:Curve xmlns:d5p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">

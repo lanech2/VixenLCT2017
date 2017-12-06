@@ -2,7 +2,7 @@
 <TimedSequenceData version="4" xmlns:a="http://www.w3.org/2001/XMLSchema" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Sequence.Timed">
   <ModuleInstanceId xmlns="">86bcf8bc-5df8-4d64-8201-85ea7a3e8447</ModuleInstanceId>
   <ModuleTypeId xmlns="">296bdba2-9bf3-4bff-a9f2-13efac5c8ecb</ModuleTypeId>
-  <Length xmlns="">PT4M45.518S</Length>
+  <Length xmlns="">PT30S</Length>
   <SequenceLayers xmlns:d1p1="http://schemas.datacontract.org/2004/07/Vixen.Sys.LayerMixing" xmlns="">
     <d1p1:Layers xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
       <d2p1:anyType i:type="d1p1:DefaultLayer">
@@ -64,15 +64,7 @@
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">0</X>
-            <Y i:type="a:double">29.926145585493956</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">50</X>
-            <Y i:type="a:double">70</Y>
+            <Y i:type="a:double">70.195457725630249</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
@@ -80,18 +72,18 @@
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">100</X>
-            <Y i:type="a:double">29.834178429491573</Y>
+            <Y i:type="a:double">69.667943703075011</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
           </d4p1:PointPair>
         </d3p1:Points>
-        <d3p1:_libraryReferenceName>30-70-30</d3p1:_libraryReferenceName>
+        <d3p1:_libraryReferenceName>70</d3p1:_libraryReferenceName>
       </d2p1:Curve>
       <d2p1:Direction>Up</d2p1:Direction>
       <d2p1:PassCount>1</d2p1:PassCount>
       <d2p1:PulsePercent>33</d2p1:PulsePercent>
-      <d2p1:PulseTime>750</d2p1:PulseTime>
+      <d2p1:PulseTime>1000</d2p1:PulseTime>
       <d2p1:WipeByCount>false</d2p1:WipeByCount>
       <d2p1:WipeOff>false</d2p1:WipeOff>
       <d2p1:WipeOn>false</d2p1:WipeOn>
@@ -144,15 +136,7 @@
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">0</X>
-            <Y i:type="a:double">29.926145585493956</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">50</X>
-            <Y i:type="a:double">70</Y>
+            <Y i:type="a:double">70.195457725630249</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
@@ -160,13 +144,13 @@
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">100</X>
-            <Y i:type="a:double">29.834178429491573</Y>
+            <Y i:type="a:double">69.667943703075011</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
           </d4p1:PointPair>
         </d3p1:Points>
-        <d3p1:_libraryReferenceName>30-70-30</d3p1:_libraryReferenceName>
+        <d3p1:_libraryReferenceName>70</d3p1:_libraryReferenceName>
       </d2p1:Curve>
       <d2p1:Direction>Up</d2p1:Direction>
       <d2p1:PassCount>1</d2p1:PassCount>
@@ -224,15 +208,7 @@
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">0</X>
-            <Y i:type="a:double">29.926145585493956</Y>
-            <schema2 i:type="a:int">11</schema2>
-            <Z i:type="a:double">0</Z>
-            <Tag i:nil="true" />
-          </d4p1:PointPair>
-          <d4p1:PointPair>
-            <schema i:type="a:int">11</schema>
-            <X i:type="a:double">50</X>
-            <Y i:type="a:double">70</Y>
+            <Y i:type="a:double">70.195457725630249</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
@@ -240,13 +216,13 @@
           <d4p1:PointPair>
             <schema i:type="a:int">11</schema>
             <X i:type="a:double">100</X>
-            <Y i:type="a:double">29.834178429491573</Y>
+            <Y i:type="a:double">69.667943703075011</Y>
             <schema2 i:type="a:int">11</schema2>
             <Z i:type="a:double">0</Z>
             <Tag i:nil="true" />
           </d4p1:PointPair>
         </d3p1:Points>
-        <d3p1:_libraryReferenceName>30-70-30</d3p1:_libraryReferenceName>
+        <d3p1:_libraryReferenceName>70</d3p1:_libraryReferenceName>
       </d2p1:Curve>
       <d2p1:Direction>Up</d2p1:Direction>
       <d2p1:PassCount>1</d2p1:PassCount>
@@ -306,6 +282,6 @@
   <DefaultSplitterDistance>250</DefaultSplitterDistance>
   <MarkCollections />
   <RowSettings xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
-  <TimePerPixel>PT0.0931316S</TimePerPixel>
+  <TimePerPixel>PT0.024671S</TimePerPixel>
   <VisibleTimeStart>PT0S</VisibleTimeStart>
 </TimedSequenceData>

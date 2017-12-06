@@ -2,7 +2,7 @@
 <TimedSequenceData version="4" xmlns:a="http://www.w3.org/2001/XMLSchema" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Sequence.Timed">
   <ModuleInstanceId xmlns="">35bfcbb6-0ce3-41d8-9ac3-3a67ce2c5533</ModuleInstanceId>
   <ModuleTypeId xmlns="">296bdba2-9bf3-4bff-a9f2-13efac5c8ecb</ModuleTypeId>
-  <Length xmlns="">PT1M</Length>
+  <Length xmlns="">PT2M</Length>
   <SequenceLayers xmlns:d1p1="http://schemas.datacontract.org/2004/07/Vixen.Sys.LayerMixing" xmlns="">
     <d1p1:Layers xmlns:d2p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
       <d2p1:anyType i:type="d1p1:DefaultLayer">
@@ -250,7 +250,7 @@
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT10.01S</TimeSpan>
+      <TimeSpan>PT2M</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -261,7 +261,7 @@
           <NodeId>1f61d9ca-ff8c-468c-85cd-0fbde8590ae9</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT10.01S</TimeSpan>
+      <TimeSpan>PT2M</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -272,7 +272,7 @@
           <NodeId>990e7a89-00e3-4b80-a908-161200535682</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT10.01S</TimeSpan>
+      <TimeSpan>PT2M</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
     <EffectNodeSurrogate>
@@ -283,7 +283,7 @@
           <NodeId>08fe4c85-ee20-4312-a78f-97f9b6dbea66</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT10.01S</TimeSpan>
+      <TimeSpan>PT2M</TimeSpan>
       <TypeId>cbd76d3b-c924-40ff-bad6-d1437b3dbdc0</TypeId>
     </EffectNodeSurrogate>
   </_effectNodeSurrogates>
@@ -302,5 +302,5 @@
   <MarkCollections />
   <RowSettings xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
   <TimePerPixel>-P10675199DT2H48M5.4775808S</TimePerPixel>
-  <VisibleTimeStart>-P10675199DT2H48M5.4775808S</VisibleTimeStart>
+  <VisibleTimeStart>PT1M47.84S</VisibleTimeStart>
 </TimedSequenceData>

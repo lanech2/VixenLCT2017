@@ -29,7 +29,7 @@
   <Version xmlns="">0</Version>
   <_dataModels xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns="">
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Plasma" i:type="d2p1:PlasmaData">
-      <ModuleInstanceId>8bce2060-c2a3-4659-adf6-43c845c10bad</ModuleInstanceId>
+      <ModuleInstanceId>d34085df-a53b-457f-84e1-7fb42bdd27d8</ModuleInstanceId>
       <ModuleTypeId>a4b7255d-0011-481f-8065-a7e5f14b39f9</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Locations</TargetPositioning>
       <d2p1:ColorType>Normal</d2p1:ColorType>
@@ -53,14 +53,14 @@
               <d3p1:_focus>0.5</d3p1:_focus>
               <d3p1:_position>0</d3p1:_position>
               <d3p1:_color xmlns:d7p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-                <d7p1:_x>41.24</d7p1:_x>
-                <d7p1:_y>21.26</d7p1:_y>
-                <d7p1:_z>1.93</d7p1:_z>
+                <d7p1:_x>53.778713749278168</d7p1:_x>
+                <d7p1:_y>25.639402795104672</d7p1:_y>
+                <d7p1:_z>96.722187084794982</d7p1:_z>
               </d3p1:_color>
             </d3p1:ColorPoint>
           </d3p1:_colors>
           <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-          <d3p1:_libraryReferenceName i:nil="true" />
+          <d3p1:_libraryReferenceName>Pink</d3p1:_libraryReferenceName>
           <d3p1:_title i:nil="true" />
         </d3p1:ColorGradient>
         <d3p1:ColorGradient>
@@ -89,7 +89,7 @@
             </d3p1:ColorPoint>
           </d3p1:_colors>
           <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-          <d3p1:_libraryReferenceName i:nil="true" />
+          <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
           <d3p1:_title i:nil="true" />
         </d3p1:ColorGradient>
         <d3p1:ColorGradient>
@@ -194,14 +194,14 @@
   </_dataModels>
   <_effectNodeSurrogates xmlns="">
     <EffectNodeSurrogate>
-      <InstanceId>8bce2060-c2a3-4659-adf6-43c845c10bad</InstanceId>
+      <InstanceId>d34085df-a53b-457f-84e1-7fb42bdd27d8</InstanceId>
       <StartTime>PT0S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT10.9975532S</TimeSpan>
+      <TimeSpan>PT11.4632112S</TimeSpan>
       <TypeId>a4b7255d-0011-481f-8065-a7e5f14b39f9</TypeId>
     </EffectNodeSurrogate>
   </_effectNodeSurrogates>

@@ -132,10 +132,52 @@
         </d3p1:Points>
         <d3p1:_libraryReferenceName>70</d3p1:_libraryReferenceName>
       </d2p1:LevelCurve>
-      <d2p1:LineDensity>4</d2p1:LineDensity>
+      <d2p1:LineDensityCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
+        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">0</X>
+            <Y i:type="a:double">33.333333333333329</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">100</X>
+            <Y i:type="a:double">33.333333333333329</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+        </d3p1:Points>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+      </d2p1:LineDensityCurve>
       <d2p1:Orientation>Vertical</d2p1:Orientation>
       <d2p1:PlasmaStyle>8</d2p1:PlasmaStyle>
-      <d2p1:Speed>10</d2p1:Speed>
+      <d2p1:SpeedCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
+        <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
+        <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">0</X>
+            <Y i:type="a:double">9.0909090909090917</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+          <d4p1:PointPair>
+            <schema i:type="a:int">11</schema>
+            <X i:type="a:double">100</X>
+            <Y i:type="a:double">9.0909090909090917</Y>
+            <schema2 i:type="a:int">11</schema2>
+            <Z i:type="a:double">0</Z>
+            <Tag i:nil="true" />
+          </d4p1:PointPair>
+        </d3p1:Points>
+        <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
+      </d2p1:SpeedCurve>
     </d1p1:anyType>
   </_dataModels>
   <_effectNodeSurrogates xmlns="">
@@ -147,7 +189,7 @@
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT13.1595532S</TimeSpan>
+      <TimeSpan>PT16.1397644S</TimeSpan>
       <TypeId>a4b7255d-0011-481f-8065-a7e5f14b39f9</TypeId>
     </EffectNodeSurrogate>
   </_effectNodeSurrogates>
@@ -162,7 +204,7 @@
   <DefaultPlaybackEndTime i:nil="true" />
   <DefaultPlaybackStartTime>PT0S</DefaultPlaybackStartTime>
   <DefaultRowHeight>32</DefaultRowHeight>
-  <DefaultSplitterDistance>0</DefaultSplitterDistance>
+  <DefaultSplitterDistance>250</DefaultSplitterDistance>
   <MarkCollections />
   <RowSettings xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
   <TimePerPixel>PT0.0931316S</TimePerPixel>

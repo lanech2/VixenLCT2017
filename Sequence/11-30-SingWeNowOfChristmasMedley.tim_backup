@@ -29,7 +29,7 @@
   <Version xmlns="">0</Version>
   <_dataModels xmlns:d1p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" xmlns="">
     <d1p1:anyType xmlns:d2p1="http://schemas.datacontract.org/2004/07/VixenModules.Effect.PinWheel" i:type="d2p1:PinWheelData">
-      <ModuleInstanceId>3220e3e0-b094-4a3a-8453-1f47e52e28fa</ModuleInstanceId>
+      <ModuleInstanceId>f27a6c85-27ad-4fec-9986-08f18e993984</ModuleInstanceId>
       <ModuleTypeId>089da093-a743-4eac-b962-7f29e4ba337d</ModuleTypeId>
       <TargetPositioning xmlns="http://schemas.datacontract.org/2004/07/VixenModules.Effect.Effect">Locations</TargetPositioning>
       <d2p1:Arms>3</d2p1:Arms>
@@ -130,14 +130,14 @@
                 <d3p1:_focus>0.5</d3p1:_focus>
                 <d3p1:_position>0</d3p1:_position>
                 <d3p1:_color xmlns:d8p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-                  <d8p1:_x>35.76</d8p1:_x>
-                  <d8p1:_y>71.52</d8p1:_y>
-                  <d8p1:_z>11.92</d8p1:_z>
+                  <d8p1:_x>44.473990766690179</d8p1:_x>
+                  <d8p1:_y>53.58996691736467</d8p1:_y>
+                  <d8p1:_z>7.9998698497169585</d8p1:_z>
                 </d3p1:_color>
               </d3p1:ColorPoint>
             </d3p1:_colors>
             <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-            <d3p1:_libraryReferenceName i:nil="true" />
+            <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
             <d3p1:_title i:nil="true" />
           </d3p1:ColorGradient>
           <d3p1:Curve xmlns:d5p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
@@ -183,14 +183,14 @@
                 <d3p1:_focus>0.5</d3p1:_focus>
                 <d3p1:_position>0</d3p1:_position>
                 <d3p1:_color xmlns:d8p1="http://schemas.datacontract.org/2004/07/Common.Controls.ColorManagement.ColorModels">
-                  <d8p1:_x>30.104132251479605</d8p1:_x>
-                  <d8p1:_y>13.434133163590117</d8p1:_y>
-                  <d8p1:_z>95.614124036017344</d8p1:_z>
+                  <d8p1:_x>34.246931528197251</d8p1:_x>
+                  <d8p1:_y>16.452187205218522</d8p1:_y>
+                  <d8p1:_z>56.014156264984372</d8p1:_z>
                 </d3p1:_color>
               </d3p1:ColorPoint>
             </d3p1:_colors>
             <d3p1:_gammacorrected>false</d3p1:_gammacorrected>
-            <d3p1:_libraryReferenceName>Purple</d3p1:_libraryReferenceName>
+            <d3p1:_libraryReferenceName></d3p1:_libraryReferenceName>
             <d3p1:_title i:nil="true" />
           </d3p1:ColorGradient>
           <d3p1:Curve xmlns:d5p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
@@ -242,7 +242,7 @@
       <d2p1:MovementType>Speed</d2p1:MovementType>
       <d2p1:Orientation>Vertical</d2p1:Orientation>
       <d2p1:PinWheelBladeType>Flat</d2p1:PinWheelBladeType>
-      <d2p1:Rotation>Backward</d2p1:Rotation>
+      <d2p1:Rotation>Forward</d2p1:Rotation>
       <d2p1:SizeCurve xmlns:d3p1="http://schemas.datacontract.org/2004/07/VixenModules.App.Curves">
         <d3p1:IsCurrentLibraryCurve>false</d3p1:IsCurrentLibraryCurve>
         <d3p1:Points xmlns:d4p1="http://schemas.datacontract.org/2004/07/ZedGraph">
@@ -379,14 +379,14 @@
   </_dataModels>
   <_effectNodeSurrogates xmlns="">
     <EffectNodeSurrogate>
-      <InstanceId>3220e3e0-b094-4a3a-8453-1f47e52e28fa</InstanceId>
+      <InstanceId>f27a6c85-27ad-4fec-9986-08f18e993984</InstanceId>
       <StartTime>PT0S</StartTime>
       <TargetNodes>
         <ChannelNodeReferenceSurrogate>
           <NodeId>978dd500-f239-4f75-aa40-cb83d8bd6841</NodeId>
         </ChannelNodeReferenceSurrogate>
       </TargetNodes>
-      <TimeSpan>PT11.1098164S</TimeSpan>
+      <TimeSpan>PT11.2128164S</TimeSpan>
       <TypeId>089da093-a743-4eac-b962-7f29e4ba337d</TypeId>
     </EffectNodeSurrogate>
   </_effectNodeSurrogates>
